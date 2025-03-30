@@ -8,14 +8,14 @@ parts:
     - file: Education/BSc/BSc.md
     - file: Education/MSc/MSc.md
       sections:
-      - file: Education/MSc/Crossover.md
+      - file: Education/MSc/CrossOver.md
       - file: Education/MSc/MScThesis.md
     - file: Education/PhD/PhD.md
 
   - caption: Work experience
     chapters:
     - file: Workexperience/AH/AH.md
-    - file: Workexperience/KrasSport/Krassport.md
+    - file: Workexperience/KrasSport/KrasSport.md
     - file: Workexperience/TTC/TTC.md
     - file: Workexperience/FlexDelft/FlexDelft.md
 
