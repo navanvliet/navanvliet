@@ -4,19 +4,26 @@ root: intro.md
 parts:
   - caption: Education
     chapters:
-    - file: SGH/SGH.md
-    - file: BSc/BSc.md
-    - file: MSc/MSC.md
+    - file: Education/SGH/SGH.md
+    - file: Education/BSc/BSc.md
+    - file: Education/MSc/MSC.md
       sections:
-      - file: MSc/Crossover.md
-      - file: MSc/MScThesis.md
-    - file: PhD/PhD.md
+      - file: Education/MSc/Crossover.md
+      - file: Education/MSc/MScThesis.md
+    - file: Education/PhD/PhD.md
 
   - caption: Work experience
     chapters:
+    - file: Workexperience/AH/AH.md
+    - file: Workexperience/KrasSport/Krassport.md
+    - file: Workexperience/TTC/TTC.md
+    - file: Workexperience/FlexDelft/FlexDelft.md
 
-    - caption: Personal interests
+  - caption: Personal interests
     chapters:
+    - file: Personalinterests/Sports/Sports.md
+    - file: Personalinterests/Travel/Travel.md
+    - file: Personalinterests/Reading/Reading.md
 
   - caption: Other
     chapters:
