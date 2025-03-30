@@ -2,25 +2,22 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Contents
+  - caption: Education
     chapters:
-    - file: some_content/overview.md
+    - file: SGH/SGH.md
+    - file: BSc/BSc.md
+    - file: MSc/MSC.md
       sections:
-      - file: some_content/text_and_code.ipynb
-    - file: exercises.md
-      sections:
-      - file: exercises/001.md
-      - file: exercises/002.md
-      - file: exercises/003.md
-      - file: exercises/004.md
-      - file: exercises/005.md
-      - file: exercises/006.md
-      - file: exercises/summary
-    - file: syntax_exercises.md
-      sections:
-      - file: syntax_exercises/007.md
-      - file: syntax_exercises/008.md
-      - file: syntax_exercises/009.md
-    - file: references.md
-    - file: changelog.md
+      - file: MSc/Crossover.md
+      - file: MSc/MScThesis.md
+    - file: PhD/PhD.md
+
+  - caption: Work experience
+    chapters:
+
+    - caption: Personal interests
+    chapters:
+
+  - caption: Other
+    chapters:
     - file: credits.md
