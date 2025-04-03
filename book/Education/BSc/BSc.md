@@ -17,3 +17,13 @@ align: center
 ---
 BSc curriculum year 3
 ```
+
+## Minor: Engineering for Large-Scale Energy Conversion and Storage (ELECS)
+
+## Electives
+- Structural Mechanics 4 (CTB3330)
+- Hydraulic Structures (CTB3355)
+- Water Systems Analysis (CTB3360)
+
+## BSc Thesis: Vehicle-bridge dynamics
+Theoretical modelling and numerical simulation of vehicle-bridge dynamics using VI-Rail

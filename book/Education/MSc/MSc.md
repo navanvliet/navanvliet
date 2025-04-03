@@ -16,7 +16,7 @@ This module offers advanced knowledge in civil engineering mechanics and dynamic
 ### B-module Applied Mechanics of Structures (CIEM5210)
 This module provides students with in-depth expertise on the analysis of the mechanical response of structures. Analytical and computational techniques are explained and applied. The module offers students the possibility to become applied mechanics specialists with the ability to use state-of-the-art computational tools and analytical tools across the structural engineering field. The module also prepares students to contribute to academic research that advances the limits of computational and analytical tools for analysis of the mechanical response of structures.
 
-### Electives:
+### Electives
 - CO2 Neutral Structures (CIEM5304)
 - Fire Safety Design (CIEM5305)
 - Parametric Design and Digital Fabrication (CIEM5308)
