@@ -1,6 +1,6 @@
 # MSc Thesis
 **Structural assessment of inner-city quay walls’ capacity to resist multifunctional loads**  
-_Subtitle: FEM analysis of a traditional quay wall and a sheet pile wall to assess their capacity for current and future multifunctional loads_
+_FEM analysis of a traditional quay wall and a sheet pile wall to assess their capacity for current and future multifunctional loads_
 
 ## Abstract
 The renewal of quay walls in Amsterdam presents an opportunity to integrate multifunctional features that introduce additional loads to the existing structures. These loads are caused by the self-weight of trees offering climate adaptable cities, energy storage powering the energy transition or steel panels, which allow additional protection against sea level rise by increasing the retaining height of the quay walls. This research investigates the structural performance of two quay wall configurations at the Marnixkade, which is a street along a quay wall that is in the west of Amsterdam, where renewal is to take place. Out of multiple structural quay-wall configurations, a traditional timber-masonry quay wall and a modern steel sheet pile wall are chosen. The traditional quay wall is currently the most occurring quay wall type, whereas the steel sheet pile wall has been selected as it enables rapid design for high strength and is therefore often seen as emergency structure in Amsterdam for deteriorated quays. Although other methods are in development by different companies, little information is known, and they are therefore not considered.
