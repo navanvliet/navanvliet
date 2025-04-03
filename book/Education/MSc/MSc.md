@@ -1,5 +1,7 @@
 # MSc Civil Engineering
 
+## Track Structural Engineering
+
 ```{figure} Figures/MSc_curriculum_year1and2.jpg
 name: MSc_year1and2
 width: 95%
@@ -7,8 +9,6 @@ align: center
 ---
 BSc curriculum year 1 and 2
 ```
-
-## Track Structural Engineering
 
 ### A-module: Structural Mechanics and Dynamics (CIEM5110)
 This module offers advanced knowledge in civil engineering mechanics and dynamics, balancing theory with practical applications. You will learn to analyse structural stability under static and dynamic loads, use computational techniques, and handle vibration measurements. The module covers finite element analysis, vibration analysis, and designing measurement setups.

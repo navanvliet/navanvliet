@@ -9,5 +9,5 @@ Using Finite Element Analysis (FEA) in Plaxis and DIANA, both models are analyse
 
 Results indicate that the traditional timber-masonry quay wall exhibits higher stress concentrations in the timber piles, while the steel sheet pile wall is more susceptible to excessive horizontal displacements. It should be noted that the results are based on undeteriorated material properties; in reality, timber pile degradation and steel corrosion are common and can significantly reduce the structural performance of quay walls. Without proper in-situ measurements, the uncertainty in model predictions remains high. Adapting quay walls to additional loads from multifunctionalities requires careful reconsideration of material behaviour and structural limits, as strengthening might be required. While the steel sheet pile wall can be modified through stronger sections or higher-grade steel, reinforcement options for the traditional timber-masonry structure are more limited, involving adjustments in pile count, diameter, or masonry thickness.
 
-[TU Delft repository](https://resolver.tudelft.nl/uuid:8d37d208-a79f-44ad-afab-bcc5258d735f)  
-[Download Report](navanvliet/book/Education/MSc/MScThesis_NAvanVliet_4952669.pdf)
+[Link to TU Delft repository](https://resolver.tudelft.nl/uuid:8d37d208-a79f-44ad-afab-bcc5258d735f)  
+[Download Report](MScThesis_NAvanVliet_4952669.pdf)
