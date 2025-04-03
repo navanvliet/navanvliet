@@ -6,6 +6,9 @@ parts:
     chapters:
     - file: Education/SGH/SGH.md
     - file: Education/BSc/BSc.md
+      sections:
+      - file: Education/BSc/Minor.md
+      - file: Education/BSc/BScThesis.md
     - file: Education/MSc/MSc.md
       sections:
       - file: Education/MSc/CrossOver.md
