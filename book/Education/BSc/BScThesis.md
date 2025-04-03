@@ -1,8 +1,8 @@
 # BSc Thesis
-**Title: Vehicle-bridge dynamics**
-**Subtitle: Theoretical modelling and numerical simulation of vehicle-bridge dynamics using VI-Rail**
+**Vehicle-bridge dynamics**  
+_Theoretical modelling and numerical simulation of vehicle-bridge dynamics using VI-Rail_
 
 ## Abstract
 Rail transportation is on the rise. A lot of bridges in the Netherlands are currently outdated due to the increasing frequency of vehicles. Trains can cause a lot of dynamic loads, which can cause structural failure. The effect of a passing railway vehicle on the normal contact forces and the displacement of the vehicle is examined. Initially, various vehicle, track and bridge systems are reviewed in literature. A model of the bridge and vehicle is created in VI-Rail and Flextrack simulations are carried out. A sensitivity analysis is performed as the stiffness of the beam and the velocity of the vehicle are changed and the effects on the normal contact force and displacement are studied. A higher stiffness of the bridge deck material means lower peaks in normal contact forces of the left front wheelset and lower displacements of the primary suspension. A higher velocity of the vehicle means higher contact forces and higher displacements. The conclusion is, therefore, that it is important to design stiff bridges and to keep the velocity low, although this might not be desirable. Since in this research only short spans and beams are being studied, for future studies, it might be interesting to enlarge the spans or to create more than the current two pillars. Furthermore, the forces and displacements can be evaluated in other parts than the left front wheel, respectively, at the primary suspension.
 
-[Download Report](navanvliet/book/Education/BSc/BSc_report_NAvanVliet_4952669_final.pdf){download}
+[Download Report](navanvliet/book/Education/BSc/BSc_report_NAvanVliet_4952669_final.pdf)

@@ -1,6 +1,6 @@
 # MSc Thesis
-**Title: Structural assessment of inner-city quay walls’ capacity to resist multifunctional loads**
-**Subtitle: FEM analysis of a traditional quay wall and a sheet pile wall to assess their capacity for current and future multifunctional loads**
+**Structural assessment of inner-city quay walls’ capacity to resist multifunctional loads**  
+_Subtitle: FEM analysis of a traditional quay wall and a sheet pile wall to assess their capacity for current and future multifunctional loads_
 
 ## Abstract
 The renewal of quay walls in Amsterdam presents an opportunity to integrate multifunctional features that introduce additional loads to the existing structures. These loads are caused by the self-weight of trees offering climate adaptable cities, energy storage powering the energy transition or steel panels, which allow additional protection against sea level rise by increasing the retaining height of the quay walls. This research investigates the structural performance of two quay wall configurations at the Marnixkade, which is a street along a quay wall that is in the west of Amsterdam, where renewal is to take place. Out of multiple structural quay-wall configurations, a traditional timber-masonry quay wall and a modern steel sheet pile wall are chosen. The traditional quay wall is currently the most occurring quay wall type, whereas the steel sheet pile wall has been selected as it enables rapid design for high strength and is therefore often seen as emergency structure in Amsterdam for deteriorated quays. Although other methods are in development by different companies, little information is known, and they are therefore not considered.
@@ -9,5 +9,5 @@ Using Finite Element Analysis (FEA) in Plaxis and DIANA, both models are analyse
 
 Results indicate that the traditional timber-masonry quay wall exhibits higher stress concentrations in the timber piles, while the steel sheet pile wall is more susceptible to excessive horizontal displacements. It should be noted that the results are based on undeteriorated material properties; in reality, timber pile degradation and steel corrosion are common and can significantly reduce the structural performance of quay walls. Without proper in-situ measurements, the uncertainty in model predictions remains high. Adapting quay walls to additional loads from multifunctionalities requires careful reconsideration of material behaviour and structural limits, as strengthening might be required. While the steel sheet pile wall can be modified through stronger sections or higher-grade steel, reinforcement options for the traditional timber-masonry structure are more limited, involving adjustments in pile count, diameter, or masonry thickness.
 
-[TU Delft repository](https://resolver.tudelft.nl/uuid:8d37d208-a79f-44ad-afab-bcc5258d735fm)
-[Download Report](navanvliet/book/Education/MSc/MScThesis_NAvanVliet_4952669.pdf){download}
+[TU Delft repository](https://resolver.tudelft.nl/uuid:8d37d208-a79f-44ad-afab-bcc5258d735fm)  
+[Download Report](navanvliet/book/Education/MSc/MScThesis_NAvanVliet_4952669.pdf)
