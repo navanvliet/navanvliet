@@ -28,8 +28,6 @@ I am a PhD candidate at Delft University of Technology researching Multifunction
   <a href="https://github.com/navanvliet">Github</a>
 </div>
 
----
-
 **Personal**  
 <div style="display:flex; align-items:center; margin-bottom:8px;">
   <img src="figures/facebook.png" style="height:22px; margin-right:10px;">
