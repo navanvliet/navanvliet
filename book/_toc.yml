@@ -25,6 +25,15 @@ parts:
   - caption: Personal interests
     chapters:
     - file: Personalinterests/Sports/Sports.md
+      sections:
+      - file: Personalinterests/Sports/Rowing.md
+        sections:
+        - file: Personalinterests/Sports/Rowing/143.md
+        - file: Personalinterests/Sports/Rowing/144.md
+        - file: Personalinterests/Sports/Rowing/145.md
+        - file: Personalinterests/Sports/Rowing/146.md
+        - file: Personalinterests/Sports/Rowing/147.md
+      - file: Personalinterests/Sports/Cycling/Cycling.md
     - file: Personalinterests/Travel/Travel.md
     - file: Personalinterests/Reading/Reading.md
 

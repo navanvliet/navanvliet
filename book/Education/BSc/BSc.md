@@ -25,5 +25,6 @@ BSc curriculum year 3
 - Hydraulic Structures (CTB3355)
 - Water Systems Analysis (CTB3360)
 
-## BSc Thesis: Vehicle-bridge dynamics
-Theoretical modelling and numerical simulation of vehicle-bridge dynamics using VI-Rail
+## BSc Thesis  
+**Vehicle-bridge dynamics**  
+_Theoretical modelling and numerical simulation of vehicle-bridge dynamics using VI-Rail_
