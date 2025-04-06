@@ -5,7 +5,14 @@ _Welcome to my website. On this page you can find information about me. Please n
 
 I am a PhD candidate at Delft University of Technology researching Multifunctional Quay Walls, specifically in Amsterdam. I have obtained both a BSc and MSc degree in Civil Engineering, specializing in Structural Engineering. On this website you can find information about my education and work experience. Furthermore, I have added my personal interests, thereby displaying my significant interest in various sports.
 
-**Contact**  
+## Contact information
+
+**Professional**  
+<div style="display:flex; align-items:center; margin-bottom:8px;">
+  <img src="figures/gmail.jpg" style="height:22px; margin-right:10px;">
+  <a href="mailto:nielsvanvliet1999@gmail.com">Email</a>
+</div>
+
 <div style="display:flex; align-items:center; margin-bottom:8px;">
   <img src="figures/linkedin.png" style="height:22px; margin-right:10px;">
   <a href="https://www.linkedin.com/in/niels-van-vliet-005a4b229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a>
@@ -21,13 +28,9 @@ I am a PhD candidate at Delft University of Technology researching Multifunction
   <a href="https://github.com/navanvliet">Github</a>
 </div>
 
+---
 
-**Contact information**  
-<div style="display:flex; align-items:center; margin-bottom:8px;">
-  <img src="figures/gmail.jpg" style="height:22px; margin-right:10px;">
-  <a href="mailto:nielsvanvliet1999@gmail.com">Email</a>
-</div>
-
+**Personal**  
 <div style="display:flex; align-items:center; margin-bottom:8px;">
   <img src="figures/facebook.png" style="height:22px; margin-right:10px;">
   <a href="https://www.facebook.com/share/1BP6YcFVwv/?mibextid=wwXIfr">Facebook</a>
