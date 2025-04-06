@@ -1,7 +1,7 @@
 (intro)=
 # Niels van Vliet
 
-_Welcome to my website. On this page you can find information about me._
+_Welcome to my website. On this page you can find information about me. Please note that this website is still being developed._
 
 **Contact**
 
@@ -33,7 +33,7 @@ _Welcome to my website. On this page you can find information about me._
 </div>
 
 <div style="display:flex; align-items:center; margin-bottom:8px;">
-  <img src="figures/instagram2.jpg" style="height:22px; margin-right:10px;">
+  <img src="figures/instagram.jpg" style="height:22px; margin-right:10px;">
   <a href="https://www.instagram.com/niels_vvliet?igsh=YzMxZ2tveGYydzdz&utm_source=qr">Instagram</a>
 </div>
 
@@ -41,5 +41,3 @@ _Welcome to my website. On this page you can find information about me._
   <img src="figures/snapchat.png" style="height:22px; margin-right:10px;">
   <a href="https://snapchat.com/t/xdL65cY9">Snapchat</a>
 </div>
-
-> _Please note that this website is still being developed._
