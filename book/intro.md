@@ -3,8 +3,7 @@
 
 _Welcome to my website. On this page you can find information about me. Please note that this website is still being developed._
 
-**Contact**
-
+**Contact**  
 <div style="display:flex; align-items:center; margin-bottom:8px;">
   <img src="figures/gmail.jpg" style="height:22px; margin-right:10px;">
   <a href="mailto:nielsvanvliet1999@gmail.com">Email</a>
@@ -25,8 +24,8 @@ _Welcome to my website. On this page you can find information about me. Please n
   <a href="https://github.com/navanvliet">Github</a>
 </div>
 
-**Social Media**
 
+**Social Media**  
 <div style="display:flex; align-items:center; margin-bottom:8px;">
   <img src="figures/facebook.png" style="height:22px; margin-right:10px;">
   <a href="https://www.facebook.com/share/1BP6YcFVwv/?mibextid=wwXIfr">Facebook</a>
