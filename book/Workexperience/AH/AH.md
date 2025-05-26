@@ -3,10 +3,9 @@
 ```{figure} ../Figures/Albert_Heijn_Logo.png
 ---
 name: AH_Logo
-scale: 10%
+scale: 6%
 align: right
 ---
-Albert Heijn Logo
 ```
 When I was young, I got my first job at {ref}`AH_Bloemendaal`, part of Ahold Delhaize. I started as a shelf stocker (vakkenvuller in Dutch), mostly filling up dairy and ready-to-eat meals. It taught me how to work quickly, pay attention to details, and handle products carefully.
 
