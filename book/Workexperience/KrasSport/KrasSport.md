@@ -26,7 +26,7 @@ Kras Xtra IJsselmeerronde
 
 ```{admonition} Skills obtained
 :class: tip
-This job allowed me to work while doing something that I really like: 
+This job allowed me to work while doing something that I really like and mainly taught me the following things: 
 - Teaching & communication
 - Leadership
 - Patience
