@@ -3,6 +3,7 @@
 As a PhD candidate at Delft University of Technology (TU Delft) the Doctoral Education (DE) programme is an integral part of my PhD trajectory. This programme facilitates me in developing the competences (knowledge, skills, attitudes, insights) and mindset I need to successfully complete your PhD trajectory and become an independent researcher. A general overview of the PhD trajectory can be found in the {ref}`PhD_Development_Cycle_UGS`.
 
 ```{figure} Figures/GS_developmentcycle.png
+---
 name: PhD_Development_Cycle_UGS
 width: 95%
 align: center
@@ -15,6 +16,7 @@ In order to obtain a doctoral degree from the TU Delft I have to complete the DE
 
 ## Competence Model
 ```{figure} Figures/Competence_model.png
+---
 name: Competence_model
 scale: 50%
 align: right
@@ -23,8 +25,9 @@ Competence Model
 ```
 The {ref}`Competence_model` serves as the foundation of the Doctoral Education programme. This model outlines all the vital competences you need to successfully navigate your PhD and thrive as an autonomous researcher. An overview on how to obtain each of the skills is given in {ref}`Table_skills`.
 ```{figure} Figures/Table_skills.png
+---
 name: Table_skills
-scale: 80%
+scale: 60%
 align: center
 ---
 Skills per category and how to obtain them
