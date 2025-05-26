@@ -2,7 +2,7 @@
 
 When I was young, I got my first job at {ref}`AH_Bloemendaal`, part of Ahold Delhaize. I started as a shelf stocker (vakkenvuller in Dutch), mostly filling up dairy and ready-to-eat meals. It taught me how to work quickly, pay attention to details, and handle products carefully—especially stuff that goes bad fast.
 
-```{figure} Figures/AH_Bloemendaal.jpg
+```{figure} ../Figures/AH_Bloemendaal.jpg
 ---
 name: AH_Bloemendaal
 width: 80%
