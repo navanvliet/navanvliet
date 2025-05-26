@@ -6,11 +6,11 @@ As a PhD candidate, it's easy to focus solely on developing deep expertise in yo
 |----------------------------------|------------|------------|------------|
 | Social Safety Dialogue           | 2024-10-24 | 2024-10-24 | 0.5        |
 | PhD Start-up                     | 2025-04-17 | YYYY-MM-DD | 2          |
-| Voice Training                   | 2025-06-23 | 2025-07-07 | X.X        |
-| LinkedIn for Researchers         | 2025-06-25 | 2025-07-23 | X.X        |
-| Managing Myself, Leading Others  | 2025-07-02 | 2025-07-16 | X.X        |
-| Scientific Storytelling          | 2025-07-10 | 2025-07-31 | X.X        |
-| Effective Negotiation            | 2025-08-12 | 2025-08-25 | X.X        |
+| Voice Training                   | 2025-06-23 | 2025-07-07 | X          |
+| LinkedIn for Researchers         | 2025-06-25 | 2025-07-23 | X          |
+| Managing Myself, Leading Others  | 2025-07-02 | 2025-07-16 | X          |
+| Scientific Storytelling          | 2025-07-10 | 2025-07-31 | X          |
+| Effective Negotiation            | 2025-08-12 | 2025-08-25 | X          |
 
 ## Social Safety Dialogue
 The Social Safety Dialogue organized for PhD students in the Engineering Structures department provided a valuable opportunity to openly discuss issues related to safety, respect, and well-being in the academic environment. As a PhD candidate, you often find yourself in a vulnerable and dependent position—relying on supervisors for guidance, resources, and career progression—making it difficult to speak up when boundaries are crossed or expectations become unclear or overwhelming.

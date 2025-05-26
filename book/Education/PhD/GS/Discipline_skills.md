@@ -5,3 +5,7 @@ As part of my PhD development, I have engaged in discipline-related courses that
 Whether it’s advanced modelling techniques, specialized software training, or theoretical frameworks relevant to my domain, these courses have enhanced my ability to critically approach complex problems, interpret results rigorously, and contribute meaningfully to the academic discourse in my field. They also help me place my own research within a broader scientific context and improve collaboration with peers working on related topics.
 
 Overall, discipline-related courses are a cornerstone of the PhD journey, enabling me to build the expertise necessary to push the boundaries of knowledge in my specific area of study.
+
+| Courses / Activities             | Start Date | End Date   | GS Credits |
+|----------------------------------|------------|------------|------------|
+| X                                | YYYY-MM-DD | YYYY-MM-DD | X          |
