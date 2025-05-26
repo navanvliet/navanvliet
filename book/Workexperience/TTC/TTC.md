@@ -3,7 +3,7 @@
 ```{figure} ../Figures/TTC_Logo.png
 ---
 name: TTC_Logo
-scale: 20%
+scale: 100%
 align: right
 ---
 ```
@@ -21,7 +21,7 @@ The job was both flexible and productive, allowing me to study or read during qu
 
 ```{admonition} Skills obtained
 :class: tip
-This job allowed me to evolve with the following: 
+This job allowed me to evolve with the following:  
 - Proactive problem-solving and leadership
 - Effective communication and customer service
 - Time management and multitasking in a remote setting

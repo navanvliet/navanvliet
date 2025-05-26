@@ -22,7 +22,7 @@ After a while, I learned about different fruits and veggies and got moved to the
 
 ```{admonition} Skills obtained
 :class: tip
-That first job was a great experience that helped me develop the following things:
+That first job was a great experience that helped me develop the following things:  
 - Good work ethic
 - Responsibility
 - Communcication with customers
