@@ -3,7 +3,7 @@
 ```{figure} ../Figures/Albert_Heijn_Logo.png
 ---
 name: AH_Logo
-scale: 30%
+scale: 10%
 align: right
 ---
 Albert Heijn Logo
