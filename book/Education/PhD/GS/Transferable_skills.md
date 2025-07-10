@@ -23,17 +23,39 @@ This afternoon created space to share experiences, raise concerns, and reflect o
 During the first interactive session (Module A-I), I shared my experiences, expectations, and initial questions regarding the start of my PhD trajectory. Together with other participants, I reflected on the challenges I’ve encountered so far and took a closer look at my current skillset and areas for development. We also discussed the roles and responsibilities within the supervisory team, which helped clarify expectations on both sides. A highlight of the session was the Q&A with senior peers, where I had the opportunity to ask candid and sometimes provocative questions in a confidential setting. Overall, it was a valuable and insightful start to the professional development programme.
 
 ### T4.G1 - AII | PhD Start-up Module A-II: Navigating the PhD life (on campus)
+This course helped me reflect on both the rewards and challenges of PhD life. I recognized that I’m motivated by learning, being paid to do learn and investigate things, feeling inspired, and the status that comes with the title. At the same time, I’ve become more aware of the mental load—especially the non-linear nature of research and the difficulty of switching off mentally.
 
+```{figure} Figures/circleofcontrol.png
+---
+name: circlecontrol
+width: 45%
+align: left
+---
+Circle of control
+```
+```{figure} Figures/corequadrantmodel.png
+---
+name: corequadrantmodel
+width: 45%
+align: right
+---
+Core quadrant model
+```
+
+Tools like the {ref}`circleofcontrol` and the {ref}`corequadrantmodel` helped me better understand my strengths and pitfalls, such as being determined but sometimes impatient. I also learned how to give effective feedback, which I’ve already applied in improving communication with my supervisor. Overall, the course gave me practical strategies to navigate the human side of research more confidently.
 
 ### T4.G1 - AIII | PhD Start-up Module A-III: Conquering challenges (on campus)
+
 
 ### T4.G1 - B | PhD Start-up Module B - Scientific Integrity(on campus)
 
 ## T1.A6 | Voice Training (on campus)
 
+
 ## T1.F1 | LinkedIn for Researchers (on campus)
 
 ## T2.D2 | Managing Myself, Leading Others (on campus)
+
 
 ## T1.C1 | Scientific Storytelling (on campus)
 
