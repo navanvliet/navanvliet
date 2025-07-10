@@ -19,10 +19,10 @@ This afternoon created space to share experiences, raise concerns, and reflect o
 
 ## PhD Start-up
 
-### T4.G1 - AI | PhD Startup Module A-I: Introduction to the Graduate School (on campus)
+### T4.G1 - AI | PhD Startup Module A-I: Introduction to the Graduate School
 During the first interactive session (Module A-I), I shared my experiences, expectations, and initial questions regarding the start of my PhD trajectory. Together with other participants, I reflected on the challenges I’ve encountered so far and took a closer look at my current skillset and areas for development. We also discussed the roles and responsibilities within the supervisory team, which helped clarify expectations on both sides. A highlight of the session was the Q&A with senior peers, where I had the opportunity to ask candid and sometimes provocative questions in a confidential setting. Overall, it was a valuable and insightful start to the professional development programme.
 
-### T4.G1 - AII | PhD Start-up Module A-II: Navigating the PhD life (on campus)
+### T4.G1 - AII | PhD Start-up Module A-II: Navigating the PhD life
 This course helped me reflect on both the rewards and challenges of PhD life. I recognized that I’m motivated by learning, being paid to do learn and investigate things, feeling inspired, and the status that comes with the title. At the same time, I’ve become more aware of the mental load—especially the non-linear nature of research and the difficulty of switching off mentally.
 
 ```{figure} Figures/circleofcontrol.png
@@ -45,22 +45,23 @@ align: center
 Core quadrant model
 ```
 
-### T4.G1 - AIII | PhD Start-up Module A-III: Conquering challenges (on campus)
+### T4.G1 - AIII | PhD Start-up Module A-III: Conquering challenges
+In this 3-hour Zoom session, I reflected on stress signals and coping strategies, shared experiences through the "game of unspoken things," and appreciated the positive aspects of my PhD environment. I learned that recognizing early signs of stress, like changes in sleep, eating, and social habits, can help me manage it better, and that it's normal to feel uncertain about research direction in the first year.
+
+### T4.G1 - B | PhD Start-up Module B - Scientific Integrity
+I learned to recognize and reflect on the ethical, societal, and professional responsibilities tied to conducting research. The course covered key topics such as data misconduct, fraud, plagiarism, and conflicts of interest, helping me understand both individual and systemic causes of scientific misconduct. I also became familiar with the integrity policies at TU Delft and in the Netherlands, and how to apply them in practice to promote responsible research and prevent misconduct.
+
+## T1.A6 | Voice Training
 
 
-### T4.G1 - B | PhD Start-up Module B - Scientific Integrity(on campus)
-
-## T1.A6 | Voice Training (on campus)
+## T1.F1 | LinkedIn for Researchers
 
 
-## T1.F1 | LinkedIn for Researchers (on campus)
-
-## T2.D2 | Managing Myself, Leading Others (on campus)
+## T2.D2 | Managing Myself, Leading Others
 
 
-## T1.C1 | Scientific Storytelling (on campus)
+## T1.C1 | Scientific Storytelling
 
-## T2.C1 | Effective Negotiation (on campus)
 
 
 
