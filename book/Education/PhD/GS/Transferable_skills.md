@@ -27,8 +27,8 @@ This course helped me reflect on both the rewards and challenges of PhD life. I 
 
 ```{figure} Figures/circleofcontrol.png
 ---
-name: circlecontrol
-width: 45%
+name: circleofcontrol
+width: 60%
 align: right
 ---
 Circle of control
