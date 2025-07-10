@@ -24,11 +24,12 @@ During the first interactive session (Module A-I), I shared my experiences, expe
 
 ### T4.G1 - AII | PhD Start-up Module A-II: Navigating the PhD life (on campus)
 This course helped me reflect on both the rewards and challenges of PhD life. I recognized that I’m motivated by learning, being paid to do learn and investigate things, feeling inspired, and the status that comes with the title. At the same time, I’ve become more aware of the mental load—especially the non-linear nature of research and the difficulty of switching off mentally.
+
 ```{figure} Figures/circleofcontrol.png
 ---
 name: circlecontrol
 width: 45%
-align: left
+align: right
 ---
 Circle of control
 ```
