@@ -45,17 +45,38 @@ In this 3-hour Zoom session, I reflected on stress signals and coping strategies
 I learned to recognize and reflect on the ethical, societal, and professional responsibilities tied to conducting research. The course covered key topics such as data misconduct, fraud, plagiarism, and conflicts of interest, helping me understand both individual and systemic causes of scientific misconduct. I also became familiar with the integrity policies at TU Delft and in the Netherlands, and how to apply them in practice to promote responsible research and prevent misconduct.
 
 ```{dropdown} Story about scientific integrity: Schön scandal
-:class: tip
 The Schön scandal involved physicist Jan Hendrik Schön, who was found to have fabricated data in numerous high-profile scientific papers between 2000 and 2002. His fraudulent research, which claimed major breakthroughs in nanotechnology, was published in top journals but later retracted after investigations revealed repeated data manipulation. This case is a key example in scientific integrity courses, illustrating the importance of honesty, reproducibility, and ethical responsibility in research. It underscores how misconduct can damage scientific progress and erode public trust in science.
 ```
 
 ## T1.A6 | Voice Training
+Sound plays a significant role in how we experience the world, and this includes the sound of our own voice. During the voice training course, I learned how to use my voice more effectively—speaking with clarity, variation, and projection, similar to singing but still natural. This approach helps maintain vocal strength and reach, even in larger spaces, while supporting clearer and more persuasive communication.
 
+```{admonition} Learning objectives
+- Support your voice with a good way of breathing 
+- Speak with a continuous sound whilst saying a sentence or part of a sentence 
+- Create resonance within yourself and in the space around you 
+- Control the mood of your voice through the use of continuous or non-continuous sound and less or more resonance 
+- Keep the listener attentive through variations in the way you speak, varying through the use of pauses, rhythm, intonation, speed, vowel length and volume. 
+- Increase your volume through the use of resonance in the space around you
+```
+
+The course was by Gerben Tuin. More information can be found on his website [4Focus](https://www.gt-training.nl/).
 
 ## T1.F1 | LinkedIn for Researchers
 
-
 ## T2.D2 | Managing Myself, Leading Others
+I took a course focused on increasing self-awareness and leadership insight using the Birkman report. The course provided a structured reflection on my personality traits, work styles, and stress behaviors. It helped me understand how these factors influence my leadership approach. Rather than teaching leadership skills, it offered a deeper understanding of my default settings. This insight supports more effective self-management and leadership.
+
+<iframe 
+width="560" 
+height="315" src="https://www.youtube.com/embed/Nmuo-UXlK5o?si=PdGWuxx87Tfnht61" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen>
+</iframe>
+
+I got an overview of my interest and career advice, highlighting my strong interests in numbers and technical information as an engineer. Also scoring high on the administrative side did not surprise me, as I really like to organize everything neatly, whether it is by building my own website to have an online CV, keeping a training log, organizing my calendar and to do lists or cleaning my house. Also my career advice I could clearly understand, as it showed my background in Engineering but also showed my interest in programming in for example this website. Furthermore, my interests in mathematics ands number showed and with two parents with an education in finance, this interest did not surprise me.
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
@@ -68,6 +89,8 @@ The Schön scandal involved physicist Jan Hendrik Schön, who was found to have 
   </figure>
 </div>
 
+Furthermore the Birkman components below reflected me well. I have a high **physical energy** and like things to be structured (**insistance**). Additionally, I can be **restless**, I would like to have something to do as I am a proactive person.
+
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
     <img src="Figures/Birkman_components.png" alt="Image 1" style="width: 100%;">
@@ -78,6 +101,8 @@ The Schön scandal involved physicist Jan Hendrik Schön, who was found to have 
     <figcaption>Birkman components explained</figcaption>
   </figure>
 </div>
+
+Overall, this course emphasized the fact that everyone is different and has different needs. I am really results oriented and tend to focus a lot on the content, and not as much on the relationship, whilst taking a good organisation for granted. Since this is not the case for everyone, this course helped me with initiating a good 'social contract'. By investing in the relationship and organization early on, even briefly, you archieve greater results in the content later. In conclusion this course learned me that by managing my own behaviour, I can more effectively collaborate or lead others.
 
 ## T1.C1 | Scientific Storytelling
 
