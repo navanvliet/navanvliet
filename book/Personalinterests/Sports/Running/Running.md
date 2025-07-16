@@ -3,8 +3,9 @@ I developed a strong passion for competitive running during high school, progres
 
 ```{image} ../Figures/ECI_Letterenloop_Banner.jpg
 ---
-:align: center
-:width: 95%
+name: ECI_banner
+width: 95%
+align: center
 ---
 Winning at the ECI Letterenloop (2017)
 ```
