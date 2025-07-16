@@ -33,17 +33,18 @@ align: right
 ---
 Circle of control
 ```
+<div style="display: flex; justify-content: space-around;">
+  <figure style="text-align: center; width: 45%;">
+    <img src="Figures/circleofcontrol.png" alt="Image 1" style="width: 100%;">
+    <figcaption>Circle of control</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 45%;">
+    <img src="Figures/corequadrantmodel.png" alt="Image 2" style="width: 100%;">
+    <figcaption>Core quadrant model</figcaption>
+  </figure>
+</div>
 
-Tools like the {ref}`circleofcontrol` and the {ref}`corequadrantmodel` helped me better understand my strengths and pitfalls, such as being determined but sometimes impatient. I also learned how to give effective feedback, which I’ve already applied in improving communication with my supervisor. Overall, the course gave me practical strategies to navigate the human side of research more confidently.
-
-```{figure} Figures/corequadrantmodel.png
----
-name: corequadrantmodel
-width: 60%
-align: center
----
-Core quadrant model
-```
+Tools like the circle of control and the core quadrant model helped me better understand my strengths and pitfalls, such as being determined but sometimes impatient. I also learned how to give effective feedback, which I’ve already applied in improving communication with my supervisor. Overall, the course gave me practical strategies to navigate the human side of research more confidently.
 
 ### T4.G1 - AIII | PhD Start-up Module A-III: Conquering challenges
 In this 3-hour Zoom session, I reflected on stress signals and coping strategies, shared experiences through the "game of unspoken things," and appreciated the positive aspects of my PhD environment. I learned that recognizing early signs of stress, like changes in sleep, eating, and social habits, can help me manage it better, and that it's normal to feel uncertain about research direction in the first year.
@@ -64,7 +65,6 @@ The Schön scandal involved physicist Jan Hendrik Schön, who was found to have 
 
 ## T2.D2 | Managing Myself, Leading Others
 
-
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
     <img src="Figures/Birkman_interests.png" alt="Image 1" style="width: 100%;">
@@ -74,11 +74,6 @@ The Schön scandal involved physicist Jan Hendrik Schön, who was found to have 
     <img src="Figures/Birkman_career_advice.png" alt="Image 2" style="width: 100%;">
     <figcaption>Birkman career advice</figcaption>
   </figure>
-</div>
-
-<div style="display: flex; justify-content: space-around;">
-  <img src="Figures/Birkman_components.png" alt="Image 1" width="45%">
-  <img src="Figures/Birkman_components_explained.png" alt="Image 2" width="45%">
 </div>
 
 <div style="display: flex; justify-content: space-around;">
