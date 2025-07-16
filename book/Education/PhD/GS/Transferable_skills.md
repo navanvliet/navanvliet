@@ -66,7 +66,7 @@ The Schön scandal involved physicist Jan Hendrik Schön, who was found to have 
 
 ```{figure} Figures/Birkman_interests.png
 ---
-name: corequadrantmodel
+name: Birkman_interests
 width: 80%
 align: center
 ---
@@ -76,12 +76,17 @@ Birkman interests scores
 
 ```{figure} Figures/Birkman_components_explained.png
 ---
-name: corequadrantmodel
+name: Birkman_components_explained
 width: 80%
 align: center
 ---
 Birkman components explained
 ```
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="Figures/Birkman_components.png" alt="Image 1" width="45%">
+  <img src="Figures/Birkman_components_explained.png" alt="Image 2" width="45%">
+</div>
 
 ```{figure} Figures/Birkman_components.png
 ---
