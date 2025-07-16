@@ -51,12 +51,10 @@ In this 3-hour Zoom session, I reflected on stress signals and coping strategies
 ### T4.G1 - B | PhD Start-up Module B - Scientific Integrity
 I learned to recognize and reflect on the ethical, societal, and professional responsibilities tied to conducting research. The course covered key topics such as data misconduct, fraud, plagiarism, and conflicts of interest, helping me understand both individual and systemic causes of scientific misconduct. I also became familiar with the integrity policies at TU Delft and in the Netherlands, and how to apply them in practice to promote responsible research and prevent misconduct.
 
-```{dropdown} Schön scandal
+```{dropdown} Story about scientific integrity: Schön scandal
 :class: tip
 The Schön scandal involved physicist Jan Hendrik Schön, who was found to have fabricated data in numerous high-profile scientific papers between 2000 and 2002. His fraudulent research, which claimed major breakthroughs in nanotechnology, was published in top journals but later retracted after investigations revealed repeated data manipulation. This case is a key example in scientific integrity courses, illustrating the importance of honesty, reproducibility, and ethical responsibility in research. It underscores how misconduct can damage scientific progress and erode public trust in science.
 ```
-
-
 
 ## T1.A6 | Voice Training
 
@@ -65,6 +63,43 @@ The Schön scandal involved physicist Jan Hendrik Schön, who was found to have 
 
 
 ## T2.D2 | Managing Myself, Leading Others
+
+```{figure} Figures/Birkman_interests.png
+---
+name: corequadrantmodel
+width: 80%
+align: center
+---
+Birkman interests scores
+```
+
+
+```{figure} Figures/Birkman_components_explained.png
+---
+name: corequadrantmodel
+width: 80%
+align: center
+---
+Birkman components explained
+```
+
+```{figure} Figures/Birkman_components.png
+---
+name: corequadrantmodel
+width: 80%
+align: center
+---
+Birkman components scores
+```
+
+```{figure} Figures/Birkman_career_advice.png
+---
+name: corequadrantmodel
+width: 80%
+align: center
+---
+Birkman career advice
+```
 
 
 ## T1.C1 | Scientific Storytelling
