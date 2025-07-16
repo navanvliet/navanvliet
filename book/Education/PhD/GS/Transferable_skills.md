@@ -5,12 +5,16 @@ As a PhD candidate, it's easy to focus solely on developing deep expertise in yo
 | Courses / Activities             | Start Date | End Date   | GS Credits |
 |----------------------------------|------------|------------|------------|
 | Social Safety Dialogue           | 2024-10-24 | 2024-10-24 | 0.5        |
-| PhD Start-up                     | 2025-04-17 | YYYY-MM-DD | 2          |
-| Voice Training                   | 2025-06-23 | 2025-07-07 | X          |
-| LinkedIn for Researchers         | 2025-06-25 | 2025-07-23 | X          |
-| Managing Myself, Leading Others  | 2025-07-02 | 2025-07-16 | X          |
-| Scientific Storytelling          | 2025-07-10 | 2025-07-31 | X          |
-| Effective Negotiation            | 2025-08-12 | 2025-08-25 | X          |
+| PhD Start-up                     | 2025-04-17 | 2025-06-17 | 2          |
+| Mental Fitness Intervention Program | 2025-06-04 | 2025-06-25 | 1 |
+| Popular Scientific Writing | 2025-06-05 | 2025-06-26 | 2 |
+| Voice Training                   | 2025-06-23 | 2025-07-07 | 1.5          |
+| LinkedIn for Researchers         | 2025-06-25 | 2025-07-23 | 1          |
+| Managing Myself, Leading Others  | 2025-07-02 | 2025-07-16 | 1.5          |
+| Standing up For Yourself, While Keeping Good Relations  | 2025-07-04 | 2025-07-04 | 1          | 
+| Scientific Storytelling          | 2025-07-10 | 2025-07-31 | 2 |
+| Foundations of Education Design  | 2025-08-15 | 2025-08-15 | 1 |
+| Assessing Students and Master Thesis Projects | 2025-09-05 | 2025-09-15 | 1 |
 
 ## Social Safety Dialogue
 The Social Safety Dialogue organized for PhD students in the Engineering Structures department provided a valuable opportunity to openly discuss issues related to safety, respect, and well-being in the academic environment. As a PhD candidate, you often find yourself in a vulnerable and dependent position—relying on supervisors for guidance, resources, and career progression—making it difficult to speak up when boundaries are crossed or expectations become unclear or overwhelming.
@@ -47,6 +51,14 @@ I learned to recognize and reflect on the ethical, societal, and professional re
 ```{dropdown} Story about scientific integrity: Schön scandal
 The Schön scandal involved physicist Jan Hendrik Schön, who was found to have fabricated data in numerous high-profile scientific papers between 2000 and 2002. His fraudulent research, which claimed major breakthroughs in nanotechnology, was published in top journals but later retracted after investigations revealed repeated data manipulation. This case is a key example in scientific integrity courses, illustrating the importance of honesty, reproducibility, and ethical responsibility in research. It underscores how misconduct can damage scientific progress and erode public trust in science.
 ```
+
+## T3.G15 | Mental Fitness Intervention Program
+This course consisted of four one-hour sessions. The course is designed to support PhD candidates in building resilience, motivation, and self-leadership. While I didn’t find the content particularly impactful or applicable to my personal challenges, the sessions did offer a welcome break from daily academic pressures. They provided a relaxed setting and an easy way to earn credits, even if the overall benefit to my mental fitness was limited.
+
+## T1.B4 | Popular Scientific Writing
+This course consisting of four 3-hour sessions with homework. It focused on how to communicate complex research in a clear and accessible way for non-specialist audiences. I took it because I often noticed that people lose track when I explain my research, and I wanted to improve how I present my work.
+
+Throughout the course, I learned the importance of choosing the right words for the target audience and how to make content more engaging. We discussed what makes writing interesting—such as new or unexpected information, rhythm, lively language, and a curious opening. I also learned a structured writing process: warm-up, sketch, write, and edit. The sessions included opportunities to collaborate and get feedback on our writing.
 
 ## T1.A6 | Voice Training
 Sound plays a significant role in how we experience the world, and this includes the sound of our own voice. During the voice training course, I learned how to use my voice more effectively—speaking with clarity, variation, and projection, similar to singing but still natural. This approach helps maintain vocal strength and reach, even in larger spaces, while supporting clearer and more persuasive communication.
@@ -104,7 +116,23 @@ Furthermore the Birkman components below reflected me well. I have a high **phys
 
 Overall, this course emphasized the fact that everyone is different and has different needs. I am really results oriented and tend to focus a lot on the content, and not as much on the relationship, whilst taking a good organisation for granted. Since this is not the case for everyone, this course helped me with initiating a good 'social contract'. By investing in the relationship and organization early on, even briefly, you archieve greater results in the content later. In conclusion this course learned me that by managing my own behaviour, I can more effectively collaborate or lead others.
 
+## T2.C2 | Standing up For Yourself, While Keeping Good Relations
+In this one-day course I learned the essentials of effective communication in relationships with power differences, such as those between a PhD candidate, supervisor and promotor. It clarified my understanding what it takes to get things done on a content level without harming the relationship and to increase my personal influence in the decision process.
+
+```{admonition} Learning objectives
+- Apply effective communication strategies and problem-solving skills with collegues, like setting boundaries and saying no. 
+- Recognize how power differences influence relationships and the importance of long-term relationships. 
+- Know how effective communication contributes to your preferred outcome on a content level. 
+- Have a better understanding managing conflicts, including the use of constructive language. 
+- Prepare a confrontation or negotiation, both on content as well as a relationship level. 
+- Apply your body language and non-verbal factors in your advantage.
+```
+
 ## T1.C1 | Scientific Storytelling
+
+## T3.A1 | Foundations of Education Design
+
+## T3.A3 | Assessing Students and Master Thesis Projects
 
 
 
