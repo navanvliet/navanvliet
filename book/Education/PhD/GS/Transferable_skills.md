@@ -76,7 +76,7 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen>
 </iframe>
 
-I got an overview of my interest and career advice, highlighting my strong interests in numbers and technical information as an engineer. Also scoring high on the administrative side did not surprise me, as I really like to organize everything neatly, whether it is by building my own website to have an online CV, keeping a training log, organizing my calendar and to do lists or cleaning my house. Also my career advice I could clearly understand, as it showed my background in Engineering but also showed my interest in programming in for example this website. Furthermore, my interests in mathematics ands number showed and with two parents with an education in finance, this interest did not surprise me.
+I got an overview of my interest and career advice, highlighting my strong interests in numbers and technical information as an engineer. Also scoring high on the administrative side did not surprise me, as I really like to organize everything neatly, whether it is by building my own website to have an online CV, keeping a training log, organizing my calendar and to do lists or cleaning my house. Also my career advice I could clearly understand, as it showed my background in Engineering but also showed my interest in programming in for example this website. Furthermore, my interests in mathematics and numbers showed and with two parents with an education in finance, the interest to pursue a career in business and finance did not surprise me.
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
