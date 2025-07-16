@@ -1,7 +1,7 @@
 # Running
 I developed a strong passion for competitive running during high school, progressing from casual road runs to structured training under professional coaching. As a member of Jaspers Running Team, I competed in national and regional races, achieving personal bests across multiple distances and winning several local events. My commitment included participation in international training camps and a consistent focus on performance improvement.
 
-```{image} ../Figures/ECI_Letterenloop_Banner.jpg
+```{figure} ../Figures/ECI_Letterenloop_Banner.jpg
 ---
 name: ECI_banner
 width: 95%
@@ -9,6 +9,7 @@ align: center
 ---
 Winning at the ECI Letterenloop (2017)
 ```
+
 ## Starting
 During the last two and a half years of high school I got into running, as I found that my fitness was lacking after a 2 week Christmas holiday. During a run out on the road I met two guys that were doing a training together and they invited me to join their team for some track sessions later. I then started going to track sessions weekly. A couple of weeks later, I was doing 2 track sessions every week. I then decided to quit tennis and ice skating to solemly focus on running. I joined [Jaspers Running Team](https://www.facebook.com/jaspersrunningteam) (JRT).
 
