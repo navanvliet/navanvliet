@@ -9,31 +9,31 @@ Half a year later, I was running with a schedule, 6 days a week, coached by Koos
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
-    <img src="Figures/JRT_Diekirch_Trail.jpg" alt="Image 1" style="width: 100%;">
-    <figcaption>Training camp in Diekirch, Luxembourg</figcaption>
+    <img src="../Figures/JRT_MonteGordo.jpg" alt="Image 1" style="width: 100%;">
+    <figcaption>Training camp in Monte Gordo, Portugal (2017)</figcaption>
   </figure>
-  <figure style="text-align: center; width: 45%;">
-    <img src="Figures/JRT_MonteGordo.jpg" alt="Image 2" style="width: 100%;">
-    <figcaption>Training camp in Monte Gordo, Portugal</figcaption>
+    <figure style="text-align: center; width: 45%;">
+    <img src="../Figures/JRT_Diekirch_Trail.jpg" alt="Image 2" style="width: 100%;">
+    <figcaption>Training camp in Diekirch, Luxembourg (2017) </figcaption>
   </figure>
 </div>
 
 ## Racing
-I trained to compete at races and really wanted to improve my personal bests. I initially started with local road races of 5 km. I also ran at track meets to improve my personal bests and bigger road races in the Netherlans, such as the Singelloop and NN Zevenheuvelenloop. I also competed at the junior nationals in the 10k road race in Schoorl. I won some local races as well as demonstrated in the pictures below.
+I trained to be competitive at races. I initially started with local road races of 5 km. I also ran at track meets and bigger road races in The Netherlands to improve my personal bests, such as the Singelloop and NN Zevenheuvelenloop. I also competed at the junior nationals in the 10k road race and cross. I won some local races as well as demonstrated in the pictures below.
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
-    <img src="Figures/ECI_Letterenloop_Win.jpg" alt="Image 1" style="width: 100%;">
-    <figcaption>Winning at the ECI Letterenloop 5 km in Bloemendaal, The Netherlands</figcaption>
+    <img src="../Figures/ECI_Letterenloop_Win.jpg" alt="Image 1" style="width: 100%;">
+    <figcaption>Winning at the ECI Letterenloop 5 km in Bloemendaal, The Netherlands (2017) </figcaption>
   </figure>
   <figure style="text-align: center; width: 45%;">
-    <img src="Figures/Pim_Mulierloop_Win.jpg" alt="Image 2" style="width: 100%;">
-    <figcaption>TWinning at the Pim Mulier Grachtenloop 5 km in Santpoort, The Netherlands</figcaption>
+    <img src="../Figures/Pim_Mulierloop_Win.jpg" alt="Image 2" style="width: 100%;">
+    <figcaption>Winning at the Pim Mulier Grachtenloop 5 km in Santpoort, The Netherlands (2018)</figcaption>
   </figure>
 </div>
 
 ## Personal records
-| Distance    | Record   | Date | Location      |
+| Distance    | Time   | Date | Location      |
 |--------------|----------|--------|---------------|
 | 1500 m   | 4:35,64  | 15/04/2018     | Track, Haarlem, The Netherlands |
 | 3000 m  | 9:48,96  | 13/07/2018     | Track, Utrecht, The Netherlands |
