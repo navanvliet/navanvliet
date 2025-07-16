@@ -64,48 +64,33 @@ The Schön scandal involved physicist Jan Hendrik Schön, who was found to have 
 
 ## T2.D2 | Managing Myself, Leading Others
 
-```{figure} Figures/Birkman_interests.png
----
-name: Birkman_interests
-width: 80%
-align: center
----
-Birkman interests scores
-```
 
-
-```{figure} Figures/Birkman_components_explained.png
----
-name: Birkman_components_explained
-width: 80%
-align: center
----
-Birkman components explained
-```
+<div style="display: flex; justify-content: space-around;">
+  <figure style="text-align: center; width: 45%;">
+    <img src="Figures/Birkman_interests.png" alt="Image 1" style="width: 100%;">
+    <figcaption>Birkman interests</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 45%;">
+    <img src="Figures/Birkman_career_advice.png" alt="Image 2" style="width: 100%;">
+    <figcaption>Birkman career advice</figcaption>
+  </figure>
+</div>
 
 <div style="display: flex; justify-content: space-around;">
   <img src="Figures/Birkman_components.png" alt="Image 1" width="45%">
   <img src="Figures/Birkman_components_explained.png" alt="Image 2" width="45%">
 </div>
 
-```{figure} Figures/Birkman_components.png
----
-name: corequadrantmodel
-width: 80%
-align: center
----
-Birkman components scores
-```
-
-```{figure} Figures/Birkman_career_advice.png
----
-name: corequadrantmodel
-width: 80%
-align: center
----
-Birkman career advice
-```
-
+<div style="display: flex; justify-content: space-around;">
+  <figure style="text-align: center; width: 45%;">
+    <img src="Figures/Birkman_components.png" alt="Image 1" style="width: 100%;">
+    <figcaption>Birkman components</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 45%;">
+    <img src="Figures/Birkman_components_explained.png" alt="Image 2" style="width: 100%;">
+    <figcaption>Birkman components explained</figcaption>
+  </figure>
+</div>
 
 ## T1.C1 | Scientific Storytelling
 
