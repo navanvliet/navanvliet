@@ -33,21 +33,21 @@ Winning the national title in the LM4x at Holland Beker (2022)
 | Wins | Date        | Laga Year | Race                          | Field   | Time     | Ranked |
 |------|-------------|-----------|-------------------------------|---------|----------|--------|
 | 1    | 08/12/2018  | 143       | NKIR                          | LHEj8+  | 6:46.0   | ❌     |
-| 2    |             | 143       | Winter Races                  | LHB8+   | 16:33.0  | ❌     |
-| 3    | 30/06/2019  | 143       | NSRF Final Races              | LHB4+   | 6:57.4   | ✅     |
-| 4    | 03/10/2021  | 146       | Heineken Rowing Four Race     | LHG8+   | 182.526  | ❌     |
+| 2    |             | 143       | Winterwedstrijd               | LHB8+   | 16:33.0  | ❌     |
+| 3    | 30/06/2019  | 143       | NSRF Slot Wedstrijden         | LHB4+   | 6:57.4   | ✅     |
+| 4    | 03/10/2021  | 146       | Heineken Roeivierkamp         | LHG8+   | 182.526  | ❌     |
 | 5    | 20/03/2022  | 146       | Head of the River Amstel      | LHG8+   | 25:03.0  | ❌     |
 | 6    | 01/05/2022  | 146       | Raceroei Regatta              | LHE1x   | 7:16.7   | ✅     |
 | 7    | 29/05/2022  | 146       | Northwave Regatta             | LHE4x   | 6:56.0   | ✅     |
 | 8    | 06/06/2022  | 146       | ARB                           | HE2x    | 7:19.6   | ✅     |
 | 9    | 07/06/2022  | 146       | ARB                           | LHE4x   | 6:06.2   | ✅     |
 | 10   | 07/06/2022  | 146       | ARB                           | LHE8+   | 5:57.7   | ✅     |
-| 11   | 26/06/2022  | 146       | Royal Holland Beker           | LH4x    | 6:05.8   | ✅     |
+| 11   | 26/06/2022  | 146       | Koninklijke Holland Beker     | LH4x    | 6:05.8   | ✅     |
 | 12   | 15/10/2022  | 147       | Tromp Boat Race               | LH1x    | 20:28.0  | ❌     |
 | 13   | 16/10/2022  | 147       | Tromp Boat Race               | LH4+    | 18:30.9  | ❌     |
-| 14   | 06/11/2022  | 147       | November Fours                | LHG4*   | 13:01.4  | ❌     |
+| 14   | 06/11/2022  | 147       | Novembervieren                | LHG4*   | 13:01.4  | ❌     |
 | 15   | 12/03/2023  | 147       | Head of the River Amstel      | LHG8+   | 23:27.2  | ❌     |
-| 16   | 19/03/2023  | 147       | Heineken Rowing Four Race     | LHG8+   | 177.038  | ❌     |
+| 16   | 19/03/2023  | 147       | Heineken Roeivierkamp         | LHG8+   | 177.038  | ❌     |
 | 17   | 02/04/2023  | 147       | Varsity                       | HG2x    | 7:13.84  | ✅     |
 | 18   | 29/04/2023  | 147       | ZRB                           | HG2x    | 6:50.99  | ✅     |
 | 19   | 30/04/2023  | 147       | ZRB                           | LHE2x   | 6:42.17  | ✅     |
