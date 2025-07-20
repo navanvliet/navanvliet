@@ -1,9 +1,9 @@
 # Rowing
-```{figure} ../Figures/gedragen_roeiwedstrijd.jpg
+```{image} ../Figures/gedragen_roeiwedstrijd.jpg
 ---
-name: gedragen_roeiwedstrijd
-align: right
-width: 45%
+:name: gedragen_roeiwedstrij
+:width: 40%
+:align: center
 ---
 Celebrating after winning at the Northwave Regatta in the LM4x (2022)
 ```
