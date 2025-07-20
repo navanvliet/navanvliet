@@ -1,10 +1,14 @@
 # Rowing
+
 ```{image} ../Figures/gedragen_roeiwedstrijd.jpg
 ---
-:align: right
+width: 50%
+name: funrowing
+align: right
 ---
 Celebrating after winning at the Northwave Regatta in the LM4x (2022)
 ```
+
 I began rowing at D.S.R.V. Laga in my first year at university, building on the endurance I had developed through competitive running. This foundation helped me earn a spot in the Lightweight Freshman Eight (EJL143). Despite the challenges posed by COVID-19, which led to the cancellation of many races, I remained committed to training and personal development.
 
 My perseverance paid off in my fourth and fifth years, during which I achieved multiple national victories and was selected to compete in several international regattas. Balancing intensive training with academic responsibilities taught me discipline, time management, and resilience. Beyond the sport, I thoroughly enjoyed being part of Laga’s vibrant student association, rich with tradition and camaraderie. Over five years, from my freshman year (143) to my final year (147), rowing became a defining part of my student life and personal growth.
