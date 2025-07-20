@@ -1,20 +1,23 @@
 # Rowing
+I began rowing at D.S.R.V. Laga in my first year at university, building on the endurance I had developed through competitive running. This foundation helped me earn a spot in the Lightweight Freshman Eight (EJL143). Despite the challenges posed by COVID-19, which led to the cancellation of many races, I remained committed to training and personal development.
 
+My perseverance paid off in my fourth and fifth years, during which I achieved multiple national victories and was selected to compete in several international regattas. Balancing intensive training with academic responsibilities taught me discipline, time management, and resilience. Beyond the sport, I thoroughly enjoyed being part of Laga’s vibrant student association, rich with tradition and camaraderie. Over five years, from my freshman year (143) to my final year (147), rowing became a defining part of my student life and personal growth.
 ```{figure} ../Figures/gedragen_roeiwedstrijd.jpg
 ---
 name: gedragen_roeiwedstrijd
-align: center
+align: right
+width: 45%
 ---
-Teammates carrying me after winning at the Northwave Regatta in the LM4x (2022)
+Celebrating after winning at the Northwave Regatta in the LM4x (2022)
 ```
 
-## 2019: Freshman
+## 2019 (143): Freshman
 
-## 2020: Developing
+## 2020 (144) Developing
 
-## 2021: Developing
+## 2021 (145): Developing
 
-## 2022: International racing
+## 2022 (146): International racing
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
@@ -41,7 +44,7 @@ Luzern, Switzerland, LM4x
 ### European University Championchips
 Istanbul, Turkey, LM2x
 
-## 2023: International racing
+## 2023 (147): International racing
 
 ### World Rowing Cup II
 Varese, Italy, LM4x
