@@ -3,16 +3,23 @@
 ```{figure} ../Figures/gedragen_roeiwedstrijd.jpg
 ---
 name: gedragen_roeiwedstrijd
-width: 95%
 align: center
 ---
 Teammates carrying me after winning at the Northwave Regatta in the LM4x (2022)
 ```
 
+## 2019: Freshman
+
+## 2020: Developing
+
+## 2021: Developing
+
+## 2022: International racing
+
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
     <img src="../Figures/LHE1x_rowing.jpg" alt="Image 1" style="width: 100%;">
-    <figcaption>Final metres of Raceroei Regatta LHE1x (2018)</figcaption>
+    <figcaption>Final metres of Raceroei Regatta LHE1x (2022)</figcaption>
   </figure>
     <figure style="text-align: center; width: 45%;">
     <img src="../Figures/Raceroei_Lieke_LHE1x.jpg" alt="Image 2" style="width: 100%;">
@@ -23,11 +30,27 @@ Teammates carrying me after winning at the Northwave Regatta in the LM4x (2022)
 ```{figure} ../Figures/NKLM4x.jpg
 ---
 name: NKLM4x
-width: 95%
 align: center
 ---
 Winning the national title in the LM4x at Holland Beker (2022)
 ```
+
+### World Rowing Cup III
+Luzern, Switzerland, LM4x
+
+### European University Championchips
+Istanbul, Turkey, LM2x
+
+## 2023: International racing
+
+### World Rowing Cup II
+Varese, Italy, LM4x
+
+### Henley Royal Regatta
+Henley, England, Prince of Wales, Intermediate M4x
+
+### World University Games
+Chengdu, China, LM2x
 
 ## Race wins
 | Wins | Date        | Laga Year | Race                          | Field   | Time     | Ranked |
