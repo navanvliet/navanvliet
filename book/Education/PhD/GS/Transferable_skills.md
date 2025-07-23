@@ -75,6 +75,16 @@ Sound plays a significant role in how we experience the world, and this includes
 The course was by Gerben Tuin. More information can be found on his website [4Focus](https://www.gt-training.nl/).
 
 ## T1.F1 | LinkedIn for Researchers
+I participated in a course designed to help researchers like myself communicate our work more effectively on LinkedIn. The goal is to connect our scientific expertise with societal challenges and increase our impact. The course combined online modules, quizzes, and assignments with three in-person sessions (including one individual coaching session). I learned how to:
+- Optimise my LinkedIn profile and network
+- Engage in relevant discussions
+- Share my research in a clear and accessible way
+- Create content that adds value to both the scientific and broader community
+
+As part of the course, I updated my profile and published a post about my PhD work on quay wall modeling using PLAXIS 2D and Python automation. You can check it out here:  
+🔗 [𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐧𝐠 𝐐𝐮𝐚𝐲 𝐖𝐚𝐥𝐥 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠 𝐢𝐧 𝐏𝐋𝐀𝐗𝐈𝐒 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧](https://www.linkedin.com/posts/niels-van-vliet-005a4b229_structuralengineering-geotechnicalengineering-activity-7353763171829960708-YdFK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlJFkUBo8v3uZE-oTAbtgUVAG5Wy2q8eyI)
+
+This course was a great step toward building a stronger online presence as a researcher.
 
 ## T2.D2 | Managing Myself, Leading Others
 I took a course focused on increasing self-awareness and leadership insight using the Birkman report. The course provided a structured reflection on my personality traits, work styles, and stress behaviors. It helped me understand how these factors influence my leadership approach. Rather than teaching leadership skills, it offered a deeper understanding of my default settings. This insight supports more effective self-management and leadership.
