@@ -1,4 +1,5 @@
 # Stedelijk Gymnasium Haarlem
+Hey
 
 ```{figure} Figures/geslaagd_KimenNiels.jpg
 ---
