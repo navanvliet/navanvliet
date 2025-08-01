@@ -39,6 +39,9 @@ parts:
       sections:
       - file: Personalinterests/Travel/Australia.md
       - file: Personalinterests/Travel/Peru.md
+      - file: Personalinterests/Travel/Namibia.md
+      - file: Personalinterests/Travel/Jordan.md
+      - file: Personalinterests/Travel/Canada.md
     - file: Personalinterests/Reading/Reading.md
 
   - caption: Other
