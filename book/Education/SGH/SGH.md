@@ -4,7 +4,7 @@ My time in high school was fun, engaging, and full of opportunities to challenge
 ```{figure} Figures/geslaagd_KimenNiels.jpg
 ---
 name: kimennielsgeslaagd
-width: 50%
+scale: 50%
 align: right
 ---
 Me and my twin sister celebrating our diplomas. It is a typical Dutch tradition to hang your schoolbags onto the flagpole with the Dutch flag to show your neighbourhood that you have graduated from high school.
@@ -65,7 +65,7 @@ During high school I participated in various extracurricular activities to keep 
 ```{figure} Figures/THIMUN_UNFPA_2015.jpg
 ---
 name: THIMUN
-width: 40%
+scale: 40%
 align: right
 ---
 THIHMUN 2015 Delegation of Stedelijk Gymnasium  
