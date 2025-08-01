@@ -3,10 +3,10 @@
 ```{figure} Figures/geslaagd_KimenNiels.jpg
 ---
 name: kimennielsgeslaagd
-width: 95%
+width: 60%
 align: center
 ---
-Me and my twin sister celebrating our diplomas
+Me and my twin sister celebrating our diplomas. It is a typical Dutch tradition to hang your schoolbags onto the flagpole with the Dutch flag to show your neighbourhood that you have graduated from high school.
 ```
 
 ## Extracurricular Activities
