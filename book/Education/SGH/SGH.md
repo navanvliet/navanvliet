@@ -1,5 +1,5 @@
 # Stedelijk Gymnasium Haarlem
-My time in high school was fun, engaging, and full of opportunities to challenge myself. I chose to attend the [Stedelijk Gymansium Haarlem](https://www.sghaarlem.nl/), where I followed both Latin and Greek. After the third year, I selected a double profile: Natuur & Techniek and Natuur & Gezondheid. My favorite subject was mathematics, as I enjoyed solving complex problems and thinking logically. Throughout high school, I actively participated in various ({ref}`section:extra_activities`), including MUN conferences, which further developed my skills and interests. I graduated in 2018 with the following gradelist ({ref}`section:gradelist`).
+My time in high school was fun, engaging, and full of opportunities to challenge myself. I chose to attend the [Stedelijk Gymansium Haarlem](https://www.sghaarlem.nl/), where I followed both Latin and Greek. After the third year, I selected a double profile: Natuur & Techniek and Natuur & Gezondheid. My favorite subject was mathematics, as I enjoyed solving complex problems and thinking logically. Throughout high school, I actively participated in various {ref}`section:extra_activities`, including MUN conferences, which further developed my skills and interests. I graduated in 2018 with the following {ref}`section:gradelist`.
 
 ```{figure} Figures/geslaagd_KimenNiels.jpg
 ---
@@ -12,6 +12,7 @@ Me and my twin sister celebrating our diplomas. It is a typical Dutch tradition 
 
 
 ```{dropdown} Latin Final Exam 2018 Syllabus
+:class: note
 | Author  | Work                              | Editor(s)                         | Year | Series                   | Genre     | Selected Passages                             | Notes                             |
 |---------|-----------------------------------|-----------------------------------|------|---------------------------|-----------|------------------------------------------------|------------------------------------|
 | Cicero  | *Tusculanae Disputationes*        | M. Pohlenz                        | 1918 | Bibliotheca Teubneriana  | Dialogue  | 1.96–104; 5.57–62                              | In Latin                          |
@@ -24,6 +25,7 @@ Me and my twin sister celebrating our diplomas. It is a typical Dutch tradition 
 ```
 
 ```{dropdown} Greek Final Exam 2018 Syllabus
+:class: note
 | Author  | Work         | Editor(s)                  | Year       | Series                 | Genre | Selected Passages                                      | Notes                          |
 |---------|--------------|----------------------------|------------|------------------------|--------|--------------------------------------------------------|---------------------------------|
 | Homerus | *Odyssee*    | D.B. Monro & T.W. Allen    | 1917–1919  | Oxford Classical Texts | Epos  | 1.1–10                                                 | In Greek                        |
@@ -66,7 +68,9 @@ name: THIMUN
 width: 40%
 align: right
 ---
-THIHMUN 2015 Delegation of Stedelijk Gymnasium Haarlem representing the UNFPA (United Nations Fund for Population Activities)
+THIHMUN 2015 Delegation of Stedelijk Gymnasium  
+Haarlem representing the UNFPA (United Nations  
+ Fund for Population Activities)
 ```
 During the 3rd, 4th and 5th year of high school I particpated as delegate in multiple MUN conferences around the Netherlands and abroad, such as [MUNISH](https://www.munish.nl/),  [IMUNA]() and [HMUN](https://hmun.nl/). The largest conference I participated in was [THIMUN](https://thehague.thimun.org/), a conference for approximately 3000 students organized in the World Forum Convention Center in The Hague.
 
