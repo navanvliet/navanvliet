@@ -13,7 +13,7 @@ Me and my twin sister celebrating our diplomas
 
 
 ### Haarlem Model United Nations (2016 & 2017)
-```{figure} ../Figures/hmun.png
+```{figure} Figures/hmun.png
 ---
 figclass: margin
 name: HMUN_logo
@@ -42,6 +42,13 @@ This experience taught me a lot and gave me a unique opportunity to contribute t
 ```
 
 ### Pre-Universty Classes: Mathematics (2017)
+```{figure} Figures/Leiden_University_logo.png
+---
+figclass: margin
+name: Leiden_University_logo
+---
+Leiden University logo
+```
 In 2017, I took part in the Pre-University Classes programme in mathematics at Leiden University. This meant I was allowed to skip six Thursday afternoons at high school and take the train to Leiden instead — something that felt both exciting and a bit special at the time. Out of the available options, I chose the mathematics course because I had always enjoyed the subject and wanted to see what studying it at university level would be like.
 
 ```{dropdown} What are Pre-University Classes?
