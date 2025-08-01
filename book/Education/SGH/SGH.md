@@ -4,12 +4,11 @@ My time in high school was fun, engaging, and full of opportunities to challenge
 ```{figure} Figures/geslaagd_KimenNiels.jpg
 ---
 name: kimennielsgeslaagd
-scale: 40%
+scale: 90%
 align: right
 ---
 Me and my twin sister celebrating our diplomas. It is a typical Dutch tradition to hang your schoolbags onto the flagpole with the Dutch flag to show your neighbourhood that you have graduated from high school.
 ```
-
 
 ```{admonition} Latin Final Exam 2018 Syllabus
 :class: note, dropdown
@@ -62,6 +61,12 @@ During high school I participated in various extracurricular activities to keep 
 - Pre-Universty Classes: Mathematics (2017)
 
 ### Participation in multiple Model United Nations (MUN) conferences
+During the 3rd, 4th and 5th year of high school I particpated as delegate in multiple MUN conferences around the Netherlands and abroad, such as [MUNISH](https://www.munish.nl/),  [IMUNA]() and [HMUN](https://hmun.nl/). The largest conference I participated in was [THIMUN](https://thehague.thimun.org/), a conference for approximately 3000 students organized in the World Forum Convention Center in The Hague.
+
+```{dropdown} What is Model United Nations (MUN)?
+MUN is an educational simulation where students roleplay as delegates representing countries or organisations in United Nations committees. They debate current global issues, draft resolutions, and practice skills such as public speaking, negotiation, critical thinking, and collaboration. Although no real political decisions are made, MUN gives students a hands-on experience with international diplomacy and the workings of the UN.
+```
+
 ```{figure} Figures/THIMUN_UNFPA_2015.jpg
 ---
 name: THIMUN
@@ -71,11 +76,6 @@ align: right
 THIHMUN 2015 Delegation of Stedelijk Gymnasium  
 Haarlem representing the UNFPA (United Nations  
  Fund for Population Activities)
-```
-During the 3rd, 4th and 5th year of high school I particpated as delegate in multiple MUN conferences around the Netherlands and abroad, such as [MUNISH](https://www.munish.nl/),  [IMUNA]() and [HMUN](https://hmun.nl/). The largest conference I participated in was [THIMUN](https://thehague.thimun.org/), a conference for approximately 3000 students organized in the World Forum Convention Center in The Hague.
-
-```{dropdown} What is Model United Nations (MUN)?
-MUN is an educational simulation where students roleplay as delegates representing countries or organisations in United Nations committees. They debate current global issues, draft resolutions, and practice skills such as public speaking, negotiation, critical thinking, and collaboration. Although no real political decisions are made, MUN gives students a hands-on experience with international diplomacy and the workings of the UN.
 ```
 
 ```{admonition} Skills obtained
