@@ -1,5 +1,5 @@
 # Stedelijk Gymnasium Haarlem
-Hey
+My time in high school was fun, engaging, and full of opportunities to challenge myself. I chose to attend the [Stedelijk Gymansium Haarlem](https://www.sghaarlem.nl/), where I followed both Latin and Greek. After the third year, I selected a double profile: Natuur & Techniek and Natuur & Gezondheid. My favorite subject was mathematics, as I enjoyed solving complex problems and thinking logically. Throughout high school, I actively participated in various ({ref}`section:extra_activities`), including MUN conferences, which further developed my skills and interests. I graduated in 2018 with the following gradelist ({ref}`section:gradelist`).
 
 ```{figure} Figures/geslaagd_KimenNiels.jpg
 ---
@@ -11,7 +11,7 @@ Me and my twin sister celebrating our diplomas. It is a typical Dutch tradition 
 ```
 
 
-```{dropdown} Latin Exam 2018 Syllabus?
+```{dropdown} Latin Final Exam 2018 Syllabus
 | Author  | Work                              | Editor(s)                         | Year | Series                   | Genre     | Selected Passages                             | Notes                             |
 |---------|-----------------------------------|-----------------------------------|------|---------------------------|-----------|------------------------------------------------|------------------------------------|
 | Cicero  | *Tusculanae Disputationes*        | M. Pohlenz                        | 1918 | Bibliotheca Teubneriana  | Dialogue  | 1.96–104; 5.57–62                              | In Latin                          |
@@ -23,7 +23,7 @@ Me and my twin sister celebrating our diplomas. It is a typical Dutch tradition 
 | Seneca  | *De Vita Beata*                   | —                                 | —    | —                         | Treatise  | 17–18; *20                                     | *20 in translation only           |
 ```
 
-```{dropdown} Greek Exam 2018 Syllabus
+```{dropdown} Greek Final Exam 2018 Syllabus
 | Author  | Work         | Editor(s)                  | Year       | Series                 | Genre | Selected Passages                                      | Notes                          |
 |---------|--------------|----------------------------|------------|------------------------|--------|--------------------------------------------------------|---------------------------------|
 | Homerus | *Odyssee*    | D.B. Monro & T.W. Allen    | 1917–1919  | Oxford Classical Texts | Epos  | 1.1–10                                                 | In Greek                        |
@@ -52,23 +52,34 @@ Me and my twin sister celebrating our diplomas. It is a typical Dutch tradition 
 |         |              |                            |            |                        |       | 23.153–206                                             | In Greek                        |
 ```
 
+(section:extra_activities)=
 ## Extracurricular Activities
+During high school I participated in various extracurricular activities to keep me interested. This included:
+- Participation in multiple Model United Nations (MUN) conferences
+- Executive Staff of Haarlem Model United Nations (2016 & 2017)
+- Pre-Universty Classes: Mathematics (2017)
 
-
-### Participation in multiple MUN conferences
-
-
-```{dropdown} What is Model United Nations (MUN)?
-Model United Nations (MUN) is an educational simulation where students roleplay as delegates representing countries or organisations in United Nations committees. They debate current global issues, draft resolutions, and practice skills such as public speaking, negotiation, critical thinking, and collaboration. Although no real political decisions are made, MUN gives students a hands-on experience with international diplomacy and the workings of the UN.
-```
-
+### Participation in multiple Model United Nations (MUN) conferences
 ```{figure} Figures/THIMUN_UNFPA_2015.jpg
 ---
-name: HMUN2017_staff
-width: 60%
-align: center
+name: THIMUN
+width: 40%
+align: right
 ---
 THIHMUN 2015 Delegation of Stedelijk Gymnasium Haarlem representing the UNFPA (United Nations Fund for Population Activities)
+```
+During the 3rd, 4th and 5th year of high school I particpated as delegate in multiple MUN conferences around the Netherlands and abroad, such as [MUNISH](https://www.munish.nl/),  [IMUNA]() and [HMUN](https://hmun.nl/). The largest conference I participated in was [THIMUN](https://thehague.thimun.org/), a conference for approximately 3000 students organized in the World Forum Convention Center in The Hague.
+
+```{dropdown} What is Model United Nations (MUN)?
+MUN is an educational simulation where students roleplay as delegates representing countries or organisations in United Nations committees. They debate current global issues, draft resolutions, and practice skills such as public speaking, negotiation, critical thinking, and collaboration. Although no real political decisions are made, MUN gives students a hands-on experience with international diplomacy and the workings of the UN.
+```
+
+```{admonition} Skills obtained
+:class: tip
+Participating in MUN conferences during high school greatly improved my confidence in public speaking and fluency in English. I learned to debate diplomatically, and collaborate with international peers to draft realistic solutions.
+- Fluency in English
+- Public speaking and preesentation skills
+- Debating and argumentation
 ```
 
 ### Executive Staff of Haarlem Model United Nations (2016 & 2017)
@@ -81,15 +92,15 @@ scale: 60%
 HMUN logo
 ```
 
-During my time at the Stedelijk Gymnasium Haarlem, I was part of the Executive Staff ({ref}`HMUN2017_staff`) of the [Haarlem Model United Nations (HMUN)](https://hmun.nl/) conference in both 2016 and 2017. HMUN is an international three-day MUN conference organized entirely by students and attended by around **600 students from across the world**.
+During my time at the Stedelijk Gymnasium Haarlem, I was part of the Executive Staff of the [Haarlem Model United Nations (HMUN)](https://hmun.nl/) conference in both 2016 and 2017. HMUN is an international three-day MUN conference organized entirely by students and attended by around **600 students from across the world**.
 
 ```{figure} Figures/HMUN2017_staff.jpg
 ---
 name: HMUN2017_staff
-width: 60%
+width: 95%
 align: center
 ---
-HMUN 2017 Executive
+HMUN 2017 Executive Staff
 ```
 
 As Financial Manager, I was responsible for managing the conference's full budget. This included:
@@ -123,6 +134,7 @@ Pre-University Classes are intended for senior high school students (vwo) who wa
 
 The course focused on dynamical systems and how you can describe changes over time using mathematical models. We looked at both discrete and continuous systems, learned about differential equations, and worked with tools like eigenvalues, stability analysis and numerical simulations. There were even parts where we used spreadsheets to simulate population growth or mechanical systems like springs. It was intense, but also really interesting to get a taste of how maths can describe all kinds of changing systems — from bouncing balls to predator-prey models.
 
+(section:gradelist)=
 ## Gradelist
 After 6 years of hard work I graduated with a 7.9 (out of 10) average. Grades for specific courses are specified below:
 | Course Type             | Course (English)                    | Course (Dutch)                      | School Exam | Central Exam | Final Grade |
