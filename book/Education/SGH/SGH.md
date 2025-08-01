@@ -12,8 +12,7 @@ Me and my twin sister celebrating our diplomas. It is a typical Dutch tradition 
 
 ````{admonition} "All I know is that I know nothing" - Socrates
 :class: note
-```{admonition} Latin Final Exam 2018 Syllabus
-:class: dropdown
+```{dropdown} Latin Final Exam 2018 Syllabus
 | Author  | Work                              | Editor(s)                         | Year | Series                   | Genre     | Selected Passages                             | Notes                             |
 |---------|-----------------------------------|-----------------------------------|------|---------------------------|-----------|------------------------------------------------|------------------------------------|
 | Cicero  | *Tusculanae Disputationes*        | M. Pohlenz                        | 1918 | Bibliotheca Teubneriana  | Dialogue  | 1.96–104; 5.57–62                              | In Latin                          |
@@ -25,8 +24,7 @@ Me and my twin sister celebrating our diplomas. It is a typical Dutch tradition 
 | Seneca  | *De Vita Beata*                   | —                                 | —    | —                         | Treatise  | 17–18; *20                                     | *20 in translation only           |
 ```
 
-```{admonition} Greek Final Exam 2018 Syllabus
-:class: dropdown
+```{dropdown} Greek Final Exam 2018 Syllabus
 | Author  | Work         | Editor(s)                  | Year       | Series                 | Genre | Selected Passages                                      | Notes                          |
 |---------|--------------|----------------------------|------------|------------------------|--------|--------------------------------------------------------|---------------------------------|
 | Homerus | *Odyssee*    | D.B. Monro & T.W. Allen    | 1917–1919  | Oxford Classical Texts | Epos  | 1.1–10                                                 | In Greek                        |
