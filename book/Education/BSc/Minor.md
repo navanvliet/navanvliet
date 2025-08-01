@@ -1,7 +1,7 @@
 # Minor
 During my studies, I chose the minor *Engineering for Large-scale Energy Conversion and Storage* (ELECS) because of my strong interest in sustainable energy and the technical challenges involved in energy transfer and distribution. This minor provided me with a broad and integrated understanding of renewable energy technologies, focusing on wind and solar power, energy conversion, and storage systems. It also equipped me with essential tools for system modeling, performance evaluation, and sustainability assessment. The combination of theoretical knowledge and practical design experience enabled me to develop a systems-level perspective on how to design, simulate, and evaluate large-scale renewable energy conversion and storage solutions that are critical for the transition toward a sustainable energy future.
 
-```{figure} Figures/schamtic_ELECS.png
+```{figure} Figures/schematic_ELECS.png
 ---
 name: BTES
 align: center
