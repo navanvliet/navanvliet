@@ -29,7 +29,7 @@ Energy storage is essential for managing the variability of renewable sources. T
 
 In this course, I learned systematic approaches to evaluate energy systems. Exergy analysis provided a way to quantify the quality and efficiency of energy conversions, while life cycle assessment (LCA) enabled evaluation of environmental impacts over a system’s entire lifespan. These tools helped me critically assess the sustainability of energy technologies.
 
-## 🎓 Design Project ‘Renewables based Energy Conversion and Storage’ (Parts A & B) – 12 ECTS (3 + 9)
+## 🎓 Design Project: Renewables based Energy Conversion and Storage – 12 ECTS (3 + 9)
 
 During the design project, I gained practical experience in developing and applying advanced numerical modeling techniques to simulate complex thermal energy storage systems. By integrating phase-change materials into borehole thermal energy storage (BTES) models, I learned how to analyze and enhance the thermal performance and efficiency of renewable energy storage solutions. The project deepened my understanding of the thermal dynamics involved in large-scale energy storage and highlighted the importance of material selection and system design optimization. Working with Python to implement and run simulations strengthened my skills in programming, data analysis, and interpreting results in the context of sustainable energy technologies. Overall, this project enhanced my ability to tackle real-world engineering challenges by combining theory, computation, and practical design considerations.
 
