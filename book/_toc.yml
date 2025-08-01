@@ -35,7 +35,10 @@ parts:
       - file: Personalinterests/Sports/Rowing/Rowing.md
       - file: Personalinterests/Sports/Cycling/Cycling.md
       - file: Personalinterests/Sports/Running/Running.md
-    - file: Personalinterests/Travel/Travel.md
+    - file: Personalinterests/Travel/Travel.ipynb
+      sections:
+      - file: Personalinterests/Travel/Australia.md
+      - file: Personalinterests/Travel/Peru.md
     - file: Personalinterests/Reading/Reading.md
 
   - caption: Other
