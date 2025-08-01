@@ -42,6 +42,10 @@ parts:
       - file: Personalinterests/Travel/Namibia.md
       - file: Personalinterests/Travel/Jordan.md
       - file: Personalinterests/Travel/Canada.md
+      - file: Personalinterests/Travel/Japan.md
+      - file: Personalinterests/Travel/China.md
+      - file: Personalinterests/Travel/Indonesia.md
+      - file: Personalinterests/Travel/Malaysia.md
     - file: Personalinterests/Reading/Reading.md
 
   - caption: Other
