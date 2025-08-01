@@ -12,6 +12,7 @@ Me and my twin sister celebrating our diplomas. It is a typical Dutch tradition 
 
 ````{admonition} "All I know is that I know nothing" - Socrates
 :class: note
+
 ```{dropdown} Latin Final Exam 2018 Syllabus
 | Author  | Work                              | Editor(s)                         | Year | Series                   | Genre     | Selected Passages                             | Notes                             |
 |---------|-----------------------------------|-----------------------------------|------|---------------------------|-----------|------------------------------------------------|------------------------------------|
