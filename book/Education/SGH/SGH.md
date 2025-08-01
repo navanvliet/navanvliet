@@ -10,8 +10,10 @@ align: right
 Me and my twin sister celebrating our diplomas. It is a typical Dutch tradition to hang your schoolbags onto the flagpole with the Dutch flag to show your neighbourhood that you have graduated from high school.
 ```
 
+````{admonition} "All I know is that I know nothing" - Socrates
+:class: note
 ```{admonition} Latin Final Exam 2018 Syllabus
-:class: note, dropdown
+:class: dropdown
 | Author  | Work                              | Editor(s)                         | Year | Series                   | Genre     | Selected Passages                             | Notes                             |
 |---------|-----------------------------------|-----------------------------------|------|---------------------------|-----------|------------------------------------------------|------------------------------------|
 | Cicero  | *Tusculanae Disputationes*        | M. Pohlenz                        | 1918 | Bibliotheca Teubneriana  | Dialogue  | 1.96–104; 5.57–62                              | In Latin                          |
@@ -24,7 +26,7 @@ Me and my twin sister celebrating our diplomas. It is a typical Dutch tradition 
 ```
 
 ```{admonition} Greek Final Exam 2018 Syllabus
-:class: note, dropdown
+:class: dropdown
 | Author  | Work         | Editor(s)                  | Year       | Series                 | Genre | Selected Passages                                      | Notes                          |
 |---------|--------------|----------------------------|------------|------------------------|--------|--------------------------------------------------------|---------------------------------|
 | Homerus | *Odyssee*    | D.B. Monro & T.W. Allen    | 1917–1919  | Oxford Classical Texts | Epos  | 1.1–10                                                 | In Greek                        |
@@ -52,6 +54,7 @@ Me and my twin sister celebrating our diplomas. It is a typical Dutch tradition 
 |         |              |                            |            |                        |       | *23.1–152                                              | In translation                  |
 |         |              |                            |            |                        |       | 23.153–206                                             | In Greek                        |
 ```
+````
 
 (section:extra_activities)=
 ## Extracurricular Activities
