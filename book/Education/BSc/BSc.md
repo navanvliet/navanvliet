@@ -10,7 +10,7 @@ Me with my BSc diploma
 after the awards ceremony
 ```
 
-As a BSc student in Civil Engineering at TU Delft, I followed a diverse and challenging curriculum that combined technical depth with practical application. The first two years ({ref}`BSc_jaar1en2`) were structured into ten-week periods, during which I took courses in {ref}`Mathematics`, {ref}`Mechanics`, {ref}`Application` courses and {ref}`practicals` with software and programming in Python. I developed strong analytical skills and learned how to use software tools for modeling and creating 3D technical drawings.
+As a BSc student in Civil Engineering at TU Delft, I followed a diverse and challenging curriculum that combined technical depth with practical application. The first two years ({ref}`BSc_jaar1en2`) were structured into ten-week periods, during which I took courses in {ref}`Mathematics`, {ref}`Mechanics`, {ref}`Application` courses and {ref}`Practicals` with software and programming in Python. I developed strong analytical skills and learned how to use software tools for modeling and creating 3D technical drawings.
 
 ```{figure} Figures/BSc_curriculum_jaar1en2.jpg
 ---
