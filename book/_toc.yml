@@ -44,7 +44,6 @@ parts:
       - file: Personalinterests/Travel/Africa/Africa.md
         sections:
         - file: Personalinterests/Travel/Africa/Namibia.md
-      sections:
       - file: Personalinterests/Travel/Asia/Asia.md
         sections:
         - file: Personalinterests/Travel/Asia/Jordan.md
@@ -52,14 +51,12 @@ parts:
         - file: Personalinterests/Travel/Asia/China.md
         - file: Personalinterests/Travel/Asia/Indonesia.md
         - file: Personalinterests/Travel/Asia/Malaysia.md
-      sections:
       - file: Personalinterests/Travel/NorthAmerica/NorthAmerica.md
         sections:
         - file: Personalinterests/Travel/NorthAmerica/Canada.md
       - file: Personalinterests/Travel/Oceania/Oceania.md
         sections:
         - file: Personalinterests/Travel/Oceania/Australia.md
-      sections:
       - file: Personalinterests/Travel/SouthAmerica/SouthAmerica.md
         sections:
         - file: Personalinterests/Travel/SouthAmerica/Peru.md
