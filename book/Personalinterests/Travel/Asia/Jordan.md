@@ -12,7 +12,7 @@ Jordan is a beautiful country in the Middle East known for its ancient ruins, de
 ```{figure} Figures/Jordan_Petra.JPG
 ---
 name: Jordan_Petra
-scale: 40%
+height: 250px
 align: right
 ---
 Me with my sisters  
@@ -26,7 +26,7 @@ Petra, also known as the "Rose City," is a UNESCO World Heritage Site carved int
 ```{figure} Figures/Jordan_Camel_Wadirum.JPG
 ---
 name: Jordan_Camel_Wadirum
-scale: 40%
+height: 250px
 align: right
 ---
 Me riding a camel in the  
@@ -40,7 +40,7 @@ Wadirum, also called the "Valley of the Moon," is a dramatic desert landscape of
 ```{figure} Figures/Jordan_Anke_Jerash.JPG
 ---
 name: Jordan_Anke_Jerash
-scale: 40%
+height: 250px
 align: right
 ---
 
