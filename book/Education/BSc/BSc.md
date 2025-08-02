@@ -1,5 +1,16 @@
 # BSc Civil Engineering
 
+```{figure} Figures/BSc_diploma.jpg
+---
+name: BSc_diploma
+align: right
+width: 40%
+---
+Me with my BSc diploma after the awards ceremony
+```
+
+As a BSc student in Civil Engineering at TU Delft, I followed a diverse and challenging curriculum that combined technical depth with practical application. The first two years were structured into ten-week periods, during which I took courses in {ref}`Mathematics`, {ref}`Mechanics`, {ref}`Application` courses and {ref}`practicals` with software and programming in Python. I developed strong analytical skills and learned how to use software tools for modeling and creating 3D technical drawings.
+
 ```{figure} Figures/BSc_curriculum_jaar1en2.jpg
 ---
 name: BSc_jaar1en2
@@ -8,6 +19,8 @@ align: center
 ---
 BSc curriculum year 1 and 2
 ```
+
+In my third year (), I had the opportunity to explore a minor, allowing me to broaden my knowledge depending on my interests. I then selected elective courses that aligned with my personal and professional goals. The program culminated in the Bachelor End Project (BEP), where I applied everything I had learned in a final research or design assignment, similar in nature to a high-level school research project. Upon completion, I earned the title Bachelor of Science (BSc), equipped with a solid foundation in civil engineering and a wide set of academic and professional skills.
 
 ```{figure} Figures/BSc_curriculum_jaar3.jpg
 ---
@@ -25,6 +38,17 @@ BSc curriculum year 3
 - Hydraulic Structures (CTB3355)
 - Water Systems Analysis (CTB3360)
 
-## BSc Thesis  
+## BEP  
 **Vehicle-bridge dynamics**  
 _Theoretical modelling and numerical simulation of vehicle-bridge dynamics using VI-Rail_
+
+<div style="display: flex; justify-content: space-around;">
+  <figure style="text-align: center; width: 45%;">
+    <img src="Figures/presentation_BSc.jpg" alt="Image 1" style="width: 100%;">
+    <figcaption>Presenting my BEP</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 45%;">
+    <img src="Figures/graduation_BSc.jpg" alt="Image 2" style="width: 100%;">
+    <figcaption>Celebrating finishing my BSc with my grandfathers during the graduation ceremony</figcaption>
+  </figure>
+</div>
