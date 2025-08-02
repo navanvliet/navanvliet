@@ -21,7 +21,7 @@ align: center
 BSc curriculum year 1 and 2
 ```
 
-In my third year ({ref}`BSc_jaar_3`), I had the opportunity to explore a minor, allowing me to broaden my knowledge depending on my interests. I then selected elective courses that aligned with my personal and professional goals. The program culminated in the Bachelor End Project (BEP), where I applied everything I had learned in a final research or design assignment, similar in nature to a high-level school research project. Upon completion, I earned the title Bachelor of Science (BSc), equipped with a solid foundation in civil engineering and a wide set of academic and professional skills.
+In my third year ({ref}`BSc_jaar_3`), I had the opportunity to explore a minor, allowing me to broaden my knowledge depending on my interests. I then selected elective courses that aligned with my personal and professional goals. As I liked the structural mechanics courses most, and I knew that I wanted to follow the track Structural Engineering in the MSc program, I choose Structural Mechanics 4. The program culminated in the Bachelor End Project (BEP), where I applied everything I had learned in a final research or design assignment, similar in nature to a high-level school research project. Upon completion, I earned the title Bachelor of Science (BSc), equipped with a solid foundation in civil engineering and a wide set of academic and professional skills.
 
 ```{figure} Figures/BSc_curriculum_jaar3.jpg
 ---
@@ -33,15 +33,18 @@ BSc curriculum year 3
 ```
 
 ## Minor: Engineering for Large-Scale Energy Conversion and Storage (ELECS)
+I choose this minor as I was interested in large energy systems and renewable energies. Read about it here... `{ref}Minor`.
 
 ## Electives
 - Structural Mechanics 4 (CTB3330)
 - Hydraulic Structures (CTB3355)
 - Water Systems Analysis (CTB3360)
 
-## BEP  
+## Bachelor End Project (BEP)
+I choose the following subject for my BEP:  
 **Vehicle-bridge dynamics**  
 _Theoretical modelling and numerical simulation of vehicle-bridge dynamics using VI-Rail_
+Read about it here... `{ref}BEP`.
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
