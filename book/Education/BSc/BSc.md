@@ -33,7 +33,8 @@ BSc curriculum year 3
 ```
 
 ## Minor: Engineering for Large-Scale Energy Conversion and Storage (ELECS)
-I choose this minor as I was interested in large energy systems and renewable energies. Read about it here... {ref}`Minor`
+I choose this minor as I was interested in large energy systems and renewable energies.   
+Read about it here... {ref}`Minor`
 
 ## Electives
 - Structural Mechanics 4 (CTB3330)
@@ -43,7 +44,7 @@ I choose this minor as I was interested in large energy systems and renewable en
 ## Bachelor End Project (BEP)
 I choose the following subject for my BEP:  
 **Vehicle-bridge dynamics**  
-_Theoretical modelling and numerical simulation of vehicle-bridge dynamics using VI-Rail_
+_Theoretical modelling and numerical simulation of vehicle-bridge dynamics using VI-Rail_  
 Read about it here... {ref}`BEP`
 
 <div style="display: flex; justify-content: space-around;">
