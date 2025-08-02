@@ -35,7 +35,7 @@ Wadirum desert
 
 Wadirum, also called the "Valley of the Moon," is a dramatic desert landscape of red sand and towering rock formations. We explored the area by jeep and camel, and stayed overnight under the stars in a Bedouin-style camp — truly magical.
 
-## Jerash Temple
+## Jerash
 
 ```{figure} Figures/Jordan_Anke_Jerash.JPG
 ---
