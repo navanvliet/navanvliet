@@ -4,7 +4,7 @@
 ---
 name: BSc_diploma
 align: right
-width: 30%
+scale: 30%
 ---
 Me with my BSc diploma  
 after the awards ceremony
