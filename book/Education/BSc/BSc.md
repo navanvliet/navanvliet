@@ -4,12 +4,13 @@
 ---
 name: BSc_diploma
 align: right
-width: 40%
+width: 30%
 ---
-Me with my BSc diploma after the awards ceremony
+Me with my BSc diploma  
+after the awards ceremony
 ```
 
-As a BSc student in Civil Engineering at TU Delft, I followed a diverse and challenging curriculum that combined technical depth with practical application. The first two years were structured into ten-week periods, during which I took courses in {ref}`Mathematics`, {ref}`Mechanics`, {ref}`Application` courses and {ref}`practicals` with software and programming in Python. I developed strong analytical skills and learned how to use software tools for modeling and creating 3D technical drawings.
+As a BSc student in Civil Engineering at TU Delft, I followed a diverse and challenging curriculum that combined technical depth with practical application. The first two years ({ref}`BSc_jaaren2`) were structured into ten-week periods, during which I took courses in {ref}`Mathematics`, {ref}`Mechanics`, {ref}`Application` courses and {ref}`practicals` with software and programming in Python. I developed strong analytical skills and learned how to use software tools for modeling and creating 3D technical drawings.
 
 ```{figure} Figures/BSc_curriculum_jaar1en2.jpg
 ---
@@ -20,7 +21,7 @@ align: center
 BSc curriculum year 1 and 2
 ```
 
-In my third year (), I had the opportunity to explore a minor, allowing me to broaden my knowledge depending on my interests. I then selected elective courses that aligned with my personal and professional goals. The program culminated in the Bachelor End Project (BEP), where I applied everything I had learned in a final research or design assignment, similar in nature to a high-level school research project. Upon completion, I earned the title Bachelor of Science (BSc), equipped with a solid foundation in civil engineering and a wide set of academic and professional skills.
+In my third year ({ref}`BSc_jaar_3`), I had the opportunity to explore a minor, allowing me to broaden my knowledge depending on my interests. I then selected elective courses that aligned with my personal and professional goals. The program culminated in the Bachelor End Project (BEP), where I applied everything I had learned in a final research or design assignment, similar in nature to a high-level school research project. Upon completion, I earned the title Bachelor of Science (BSc), equipped with a solid foundation in civil engineering and a wide set of academic and professional skills.
 
 ```{figure} Figures/BSc_curriculum_jaar3.jpg
 ---

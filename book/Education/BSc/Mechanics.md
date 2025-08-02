@@ -1,2 +1,2 @@
-(Mechancics)=
+(Mechanics)=
 # Mechanics
