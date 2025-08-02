@@ -29,7 +29,7 @@ We entered through the narrow Siq and were greeted by the breathtaking Treasury.
 ---
 name: Jordan_Camel_Wadirum
 height: 300px
-align: right
+align: left
 ---
 Me riding a camel in the  
 Wadirum desert
