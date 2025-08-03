@@ -3,7 +3,7 @@
 
 _Welcome to my website. On this page you can find information about me. Please note that this website is still being developed._
 
-I am a PhD candidate at Delft University of Technology researching Multifunctional Quay Walls, specifically in Amsterdam. I have obtained both a BSc and MSc degree in Civil Engineering, specializing in Structural Engineering. On this website you can find information about my education and work experience. Furthermore, I have added my personal interests, thereby displaying my significant interest in various sports.
+I am a PhD candidate at Delft University of Technology researching inner-city Quay Walls, specifically in Amsterdam. I have obtained both a BSc and MSc degree in Civil Engineering, specializing in Structural Engineering. On this website you can find information about my education and work experience. Furthermore, I have added my personal interests, thereby displaying my significant interest in various sports.
 
 ## Contact information
 
