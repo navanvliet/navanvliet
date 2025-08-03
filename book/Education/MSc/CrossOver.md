@@ -3,9 +3,7 @@
 
 In the DSAIE module, I learned how data science and machine learning can be applied to solve complex engineering problems. The course was divided into three parts: **Probabilistic Machine Learning**, **Deep Learning**, and a **hands-on project** on structural optimization.
 
----
-
-## 📚 Reading Material
+```{admonition} 📚 Reading Material
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
 
@@ -42,7 +40,7 @@ In the DSAIE module, I learned how data science and machine learning can be appl
   </div>
 
 </div>
-
+```
 ---
 
 ## 📊 Probabilistic Machine Learning
