@@ -4,7 +4,7 @@ I chose to pursue the MSc Civil Engineering at TU Delft as a natural continuatio
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
-    <img src="Figures/graduation_family.jpg" alt="Graduation family photo" style="width: 100%;">
+    <img src="Figures/graduation_family.JPG" alt="Graduation family photo" style="width: 100%;">
     <figcaption>Me with my family after presenting my MSc Thesis🎓</figcaption>
   </figure>
   <figure style="text-align: center; width: 45%;">
@@ -14,11 +14,10 @@ I chose to pursue the MSc Civil Engineering at TU Delft as a natural continuatio
 </div>
 
 ```{Admonition} About MSc Civil Engineering at TU Delft
-class: dropdown, note
----
+:class: dropdown
+
 "TU Delft is a world leading university in Civil Engineering and executes ground breaking research into these challenges. Our research findings and innovations are fed into the educational programme so you are trained to think at a high academic level. This provides you with the necessary scientific and engineering skills to work in multidisciplinary teams of professionals that create responsible solutions to today’s engineering challenges."  
 ([TU Delft website](https://www.tudelft.nl/en/education/programmes/masters/cie/msc-civil-engineering), 2025)
----
 ```
 
 ---
@@ -99,9 +98,9 @@ I already knew before my MSc Thesis started that I would continue with a PhD at 
 **Title:** *Structural assessment of inner-city quay walls’ capacity to resist multifunctional loads*  
 **Summary:** FEM analysis of a traditional quay wall and a sheet pile wall to assess their capacity for current and future multifunctional loads.
 
-📄 Read more: {ref}`MSc Thesis`
+📄 Read more: {ref}`MScThesis`
 
 ```{Admonition} What came next?
 :class: note
-After completing my MSc, I began a PhD at TU Delft focused on the multifunctional structural behavior of quay walls in Amsterdam — directly continuing from the research started in my thesis.
+After completing my MSc, I began a PhD at TU Delft focused on the multifunctional structural behavior of quay walls in Amsterdam, directly continuing from the research started in my thesis.
 ```

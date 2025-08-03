@@ -1,3 +1,4 @@
+(MScThesis)=
 # MSc Thesis
 **Structural assessment of inner-city quay walls’ capacity to resist multifunctional loads**  
 _FEM analysis of a traditional quay wall and a sheet pile wall to assess their capacity for current and future multifunctional loads_
