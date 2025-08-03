@@ -1,3 +1,4 @@
+(KrasSport)=
 # Kras Sport
 
 During several winters in the Netherlands, I had the joy of teaching ice skating at IJsbaan Haarlem for [Kras Sport](https://www.krassport.nl/). Most of this took place during the holidays, when I gave lessons to both kids and adults. The holiday programs were especially fun—three days in a row of skating, twice a day, with a break for hot chocolate or lemonade.

@@ -1,3 +1,4 @@
+(Rowing)=
 # Rowing
 
 ```{image} ../Figures/gedragen_roeiwedstrijd.jpg

@@ -1,3 +1,4 @@
+(Cycling)=
 # Cycling
 
 ```{figure} ../Figures/ColdIzoard_metpapa.jpg
