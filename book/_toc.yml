@@ -7,10 +7,10 @@ parts:
     - file: Education/SGH/SGH.md
     - file: Education/BSc/BSc.md
       sections:
-      - file: Education/BSc/Mathematics.md
-      - file: Education/BSc/Mechanics.md
-      - file: Education/BSc/Application.md
-      - file: Education/BSc/Practicals.md
+      # - file: Education/BSc/Mathematics.md
+      # - file: Education/BSc/Mechanics.md
+      # - file: Education/BSc/Application.md
+      # - file: Education/BSc/Practicals.md
       - file: Education/BSc/Minor.md
       - file: Education/BSc/BEP.md
     - file: Education/MSc/MSc.md

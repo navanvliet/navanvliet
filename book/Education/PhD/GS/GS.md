@@ -1,3 +1,4 @@
+(GraduateSchool)=
 # Graduate School
 
 As a PhD candidate at Delft University of Technology (TU Delft) the Doctoral Education (DE) programme is an integral part of my PhD trajectory. This programme facilitates me in developing the competences (knowledge, skills, attitudes, insights) and mindset I need to successfully complete your PhD trajectory and become an independent researcher. A general overview of the PhD trajectory can be found in the {ref}`PhD_Development_Cycle_UGS`.

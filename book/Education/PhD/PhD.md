@@ -1,1 +1,10 @@
-# PhD candidate
+# PhD Candidate
+
+I am conducting my PhD research at TU Delft, within the Faculty of Civil Engineering and Geosciences, in the Department of Engineering Structures, Section of Steel & Composite Structures. I started the project on April 1st, 2025, and the expected duration is four years. My involvement began when I was a Teaching Assistant for a BSc course, and my current supervisor — an Assistant Professor — invited me to join the project. I chose to pursue this opportunity not only because I enjoy diving deep into complex topics, but also because both of my grandfathers earned doctoral titles, and I aspire to follow in their footsteps.
+
+My research focuses on the structural and functional optimization of both traditional and modern quay wall systems, with an emphasis on multifunctionality, material efficiency, and innovative construction techniques. I use finite element modeling (e.g., DIANA and PLAXIS 2D) to improve design performance. Topics include **pile–soil interaction, timber and steel pile retrofitting, topology optimization, and the development of new quay wall configurations.
+
+This research is part of the **[Multifunctional Quay Walls program](https://www.ams-institute.org/news/multifunctional-quay-walls-identifying-challenges-and-opportunities/)**, specifically Work Package 2: Structural Performance and Construction Materials. The project involves collaboration with both industry and municipal stakeholders, especially in cities like Amsterdam, where aging quay walls must meet demands of structural safety, heritage preservation**, and future multifunctional use.  
+You can find an overview of the program’s research structure here: [Infographic]().
+
+In parallel, I follow the **[TU Delft Graduate School program](https://www.tudelft.nl/en/graduate-school)**, which supports PhD candidates in developing the competencies, skills, and mindset needed to conduct independent research and successfully complete the PhD journey.
