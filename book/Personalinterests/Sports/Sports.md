@@ -30,17 +30,18 @@ height: 100px
 ---
 ```
 
-I played tennis once or twice a week for several years, but eventually stopped to concentrate on running. Another sport I really enjoyed was ice skating — a classic Dutch pastime. I started with lessons at Kras Sport and went skating outside whenever weather allowed it. Later, I joined IJsclub Haarlem and competed in multiple races.
-
-I enjoyed it so much that I eventually started teaching children how to skate at {ref}`KrasSport`.
-
 ```{figure} Figures/natuurijs_Loosdrecht.jpg
 ---
-width: 95%
+align: right
+width: 300px
 name: naturalice
 ---
 Ice skating on natural ice at the Loosdrechtse Plassen with Anthony, Martin and Joris
-```
+``` 
+
+I played tennis once or twice a week for several years, but eventually stopped to concentrate on running. Another sport I really enjoyed was ice skating — a classic Dutch pastime. I started with lessons at Kras Sport and went skating outside whenever weather allowed it. Later, I joined IJsclub Haarlem and competed in multiple races.
+
+I enjoyed it so much that I eventually started teaching children how to skate at {ref}`KrasSport`.
 
 ---
 
@@ -53,16 +54,16 @@ The last three years of high school (2016–2018), I focused on running. I mainl
 
 ## 🚣 Rowing → {ref}`Rowing`
 
-When I started studying in Delft, I joined D.S.R.V. Laga and took up rowing competitively. After beginning as a freshman rower, I later became national champion twice (LM4x) and raced at international events such as the World Cups, Henley Royal Regatta, and the FISU World University Games.
-
 ```{figure} Figures/NKLM4x.jpg
 ---
+align: right
+width: 300px
 name: NKLM4x
-height: 300px
-align: center
 ---
 Winning the national title in the LM4x at Holland Beker (2022)
 ```
+
+When I started studying in Delft, I joined D.S.R.V. Laga and took up rowing competitively. After beginning as a freshman rower, I later became national champion twice (LM4x) and raced at international events such as the World Cups, Henley Royal Regatta, and the FISU World University Games.
 
 📄 **Read more:** {ref}`Rowing`
 
