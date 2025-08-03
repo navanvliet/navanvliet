@@ -33,10 +33,12 @@ height: 100px
 ```{figure} Figures/natuurijs_Loosdrecht.jpg
 ---
 align: right
-width: 300px
+width: 350px
 name: naturalice
 ---
-Ice skating on natural ice at the Loosdrechtse Plassen with Anthony, Martin and Joris
+Ice skating on natural ice at the  
+Loosdrechtse Plassen with Anthony,  
+Martin and Joris
 ``` 
 
 I played tennis once or twice a week for several years, but eventually stopped to concentrate on running. Another sport I really enjoyed was ice skating — a classic Dutch pastime. I started with lessons at Kras Sport and went skating outside whenever weather allowed it. Later, I joined IJsclub Haarlem and competed in multiple races.
@@ -57,10 +59,11 @@ The last three years of high school (2016–2018), I focused on running. I mainl
 ```{figure} Figures/NKLM4x.jpg
 ---
 align: right
-width: 300px
+width: 350px
 name: NKLM4x
 ---
-Winning the national title in the LM4x at Holland Beker (2022)
+Winning the national title in the  
+LM4x at Holland Beker (2022)
 ```
 
 When I started studying in Delft, I joined D.S.R.V. Laga and took up rowing competitively. After beginning as a freshman rower, I later became national champion twice (LM4x) and raced at international events such as the World Cups, Henley Royal Regatta, and the FISU World University Games.
