@@ -1,10 +1,10 @@
 # Sports
 
-Sports have always been a big part of my life. From playing hockey as a child to competing internationally in rowing, each sport has shaped me in different ways. I’ve always enjoyed pushing my limits, whether in competition or just for the fun of it. Below is an overview of my sports journey, with dedicated pages on [rowing](#rowing), [running](#running), and [cycling](#cycling).
+Sports have always been a big part of my life. From playing field hockey as a child to competing internationally in rowing, each sport has shaped me in different ways. I’ve always enjoyed pushing my limits, whether in competition or just for the fun of it. Below is an overview of my sports journey, with dedicated pages on [rowing](#rowing), [running](#running), and [cycling](#cycling).
 
 ---
 
-## 🏑 Hockey
+## 🏑 Field Hockey
 
 ```{figure} Figures/HCBloemendaal.jpg
 ---
@@ -14,9 +14,9 @@ height: 100px
 ---
 ```
 
-When I was young, I started playing at the 'Musjes' at HC Bloemendaal, the youngest age group at the club. I quickly became quite fanatic. As a second-year D-player, I was selected for the first team and we competed at a high level. After performing well regionally, we qualified for "D-day," a national one-day championship for regional top teams. I vividly remember scoring a shoot-out in the semi-final, after which we advanced to the final, where we lost to Rotterdam. This was the highlight of my hockey career.
+When I was young, I started playing at the 'Musjes' at HC Bloemendaal, the youngest age group at the club. I quickly became quite fanatic. As a second-year D-player, I was selected for the first team and we competed at a high level. After performing well regionally, we qualified for "D-day," a national one-day championship for regional top teams. I vividly remember scoring a shoot-out in the semi-final, after which we advanced to the final, where we lost to Rotterdam. This was the highlight of my field hockey career.
 
-The following year in the C's, I wasn’t selected for the first team because I had been on a 5-week summer holiday to {ref}`Australia`, and wasn’t back in time for team selection. I played in the second team in both the C’s and B’s, competing in the Topklasse A. After the B’s, I decided to stop playing hockey to focus on other sports.
+The following year in the C's, I wasn’t selected for the first team because I had been on a 5-week summer holiday to {ref}`Australia`, and wasn’t back in time for team selection. I played in the second team in both the C’s and B’s, competing in the Topklasse A. After the B’s, I decided to stop playing field hockey to focus on other sports.
 
 ---
 
