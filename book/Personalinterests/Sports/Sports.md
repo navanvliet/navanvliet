@@ -31,14 +31,6 @@ name: naturalice
 Ice skating on natural ice at the  
 Loosdrechtse Plassen with Anthony,  
 Martin and Joris
-``` 
-
-```{figure} Figures/ijsclub_Haarlem.jpg
----
-figclass: margin
-name: ijsclubhaarlem_logo
-height: 100px
----
 ```
 
 I played tennis once or twice a week for several years, but eventually stopped to concentrate on running. Another sport I really enjoyed was ice skating — a classic Dutch pastime. I started with lessons at Kras Sport and went skating outside whenever weather allowed it. Later, I joined IJsclub Haarlem and competed in multiple races.
