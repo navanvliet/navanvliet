@@ -140,6 +140,21 @@ Pre-University Classes are intended for senior high school students (vwo) who wa
 
 The course focused on dynamical systems and how you can describe changes over time using mathematical models. We looked at both discrete and continuous systems, learned about differential equations, and worked with tools like eigenvalues, stability analysis and numerical simulations. There were even parts where we used spreadsheets to simulate population growth or mechanical systems like springs. It was intense, but also really interesting to get a taste of how maths can describe all kinds of changing systems — from bouncing balls to predator-prey models.
 
+### Cambridge English: Proficiency (C2)
+During high school, I was selected to participate in the Cambridge English: Proficiency (CPE) program, an opportunity granted to only about one-fifth of the students. As part of this program, I took the official CPE exam at a Cambridge English Assessment centre. Although the exam was challenging, it was a valuable experience that strengthened my English skills.
+
+```{dropdown} Grade C
+:class: tip
+| Skill            | Score |
+|------------------|-------|
+| Reading          | 214   |
+| Use of English   | 211   |
+| Writing          | 200   |
+| Listening        | 218   |
+| Speaking         | 193   |
+| **Overall**      | **207** |
+```
+
 (section:gradelist)=
 ## Gradelist
 After 6 years of hard work I graduated with a 7.9 (out of 10) average. Grades for specific courses are specified below:
