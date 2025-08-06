@@ -2,7 +2,7 @@
 # Kras Sport
 
 ```{margin}
-**Practical information**
+**Practical information**  
 📅 **Start–End:** 2017 – 2018 
 ⏳ **Duration:** 1 yr
 💼 **Type:** Part-time  

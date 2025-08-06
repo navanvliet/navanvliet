@@ -1,14 +1,14 @@
 # FlexDelft
 
 ```{margin}
-**Practical information**
+**Practical information**  
 📅 **Start–End:** Sep 2023 – Mar 2025  
 ⏳ **Duration:** 1 yr 7 mos  
 💼 **Type:** Part-time  
 🌐 **Mode:** Hybrid  
 ```
 
-Through FlexDelft, I contributed to several TU Delft civil engineering courses, combining teaching, content development, and technical implementation in various roles.
+Through FlexDelft, I contributed to several TU Delft Civil Engineering courses, combining teaching, content development, and technical implementation in various roles.
 
 - **Concrete & Steel Structures (BSc)**  
   Supported ~300 students over two years by designing assignments, grading, hosting question hours, and supervising exams.  
@@ -18,11 +18,12 @@ Through FlexDelft, I contributed to several TU Delft civil engineering courses, 
 
 - **Finite Elements in Civil Engineering – TeachBook**  
   Maintained the Jupyter Book on GitHub, implementing Timoshenko beam elements with reduced integration and interactive convergence plots.  
-  🔗 [Explore the book](https://teachbooks.tudelft.nl/computational-modelling/intro.html)  
+  📖🌍 [Explore the book](https://teachbooks.tudelft.nl/computational-modelling/intro.html)  
 
 - **Quick Reference Project – Structural Design Essentials**  
   Helped develop an open textbook from scratch to support 400+ students with structural design of concrete, steel, and timber.  
-  🔗 [Explore the book](https://teachbooks.io/Structural_Design_Essentials/main/intro.html)  
+  📰 [Article TU Delft wrote about the project](https://www.tudelft.nl/en/open-science/oesf-projects-2024/open-online-reference-guides-on-structural-engineering)  
+  📖🌍 [Explore the book](https://teachbooks.io/Structural_Design_Essentials/main/intro.html)  
 
 ```{admonition} What is FlexDelft?
 :class: dropdown, note

@@ -1,7 +1,7 @@
 # TTC Health Services
 
 ```{margin}
-**Practical information**
+**Practical information**  
 📅 **Start–End:** Jul 2021 – Oct 2021  
 ⏳ **Duration:** 4 mos  
 💼 **Type:** Part-time  

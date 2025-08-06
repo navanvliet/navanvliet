@@ -1,7 +1,7 @@
 # Albert Heijn
 
 ```{margin}
-**Practical information**
+**Practical information**  
 📅 **Start–End:** 2016 – 2017  
 ⏳ **Duration:** 1 yr 
 💼 **Type:** Part-time  
