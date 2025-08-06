@@ -1,5 +1,12 @@
 # TTC Health Services
 
+```{margin}
+**Practical information**
+📅 **Start–End:** Jul 2021 – Oct 2021  
+⏳ **Duration:** 4 mos  
+💼 **Type:** Part-time  
+🌐 **Mode:** Remote  
+```
 ```{figure} ../Figures/TTC_Logo.png
 ---
 name: TTC_Logo

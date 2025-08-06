@@ -1,6 +1,14 @@
 (KrasSport)=
 # Kras Sport
 
+```{margin}
+**Practical information**
+📅 **Start–End:** 2017 – 2018 
+⏳ **Duration:** 1 yr
+💼 **Type:** Part-time  
+🌐 **Mode:** On-site 
+```
+
 During several winters in the Netherlands, I had the joy of teaching ice skating at IJsbaan Haarlem for [Kras Sport](https://www.krassport.nl/). Most of this took place during the holidays, when I gave lessons to both kids and adults. The holiday programs were especially fun—three days in a row of skating, twice a day, with a break for hot chocolate or lemonade.
 
 ```{figure} ../Figures/Diploma_KrasSport.jpg

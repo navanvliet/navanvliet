@@ -1,5 +1,13 @@
 # Albert Heijn
 
+```{margin}
+**Practical information**
+📅 **Start–End:** 2016 – 2017  
+⏳ **Duration:** 1 yr 
+💼 **Type:** Part-time  
+🌐 **Mode:** On-site  
+```
+
 ```{figure} ../Figures/Albert_Heijn_Logo.png
 ---
 name: AH_Logo
