@@ -5,7 +5,7 @@ These days, reading is how I like to wind down in the evenings. After a day of w
 
 Reading is a big part of holidays too; as a family, we often bring multiple books along so we can all read during quiet moments. I've tracked most of what I’ve read over the years on Goodreads, which helps me look back at what I’ve enjoyed, and what to read next.
 
-<a href="https://www.goodreads.com/user/show/47662651" style="display: flex; align-items: center; font-weight: bold; text-decoration: none; color: inherit; margin-bottom: 8px;">
+<a href="https://www.goodreads.com/user/show/47662651" style="display: flex; align-items: center; font-weight: bold; color: #1a0dab; text-decoration: underline; margin-bottom: 8px;">
   <span style="margin-right: 10px;">Follow me on</span>
   <img src="goodreads_logo.png" alt="Goodreads logo" style="height: 22px; margin-right: 10px;">
   Goodreads
