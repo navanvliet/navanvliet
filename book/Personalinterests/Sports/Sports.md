@@ -39,14 +39,14 @@ I enjoyed it so much that I eventually started teaching children how to skate at
 
 ---
 
-## 🏃 Running → {ref}`Running`
+## 🏃 Running
 
 The last three years of high school (2016–2018), I focused on running. I mainly trained for the 5K (PR 17:23) and 10K (PR 36:43). I ran frequently and enjoyed the structured training routines.  
 📄 **Read more:** {ref}`Running`
 
 ---
 
-## 🚣 Rowing → {ref}`Rowing`
+## 🚣 Rowing
 
 ```{figure} Figures/NKLM4x.jpg
 ---
@@ -64,7 +64,7 @@ When I started studying in Delft, I joined D.S.R.V. Laga and took up rowing comp
 
 ---
 
-## 🚴 Cycling → {ref}`Cycling`
+## 🚴 Cycling
 
 After quitting rowing to focus on my studies, I took up cycling — which allowed me more flexibility. I had cycled as a kid but never this seriously. I joined WTOS Delft and participated in many races, Gran Fondos, and cycling holidays.
 
