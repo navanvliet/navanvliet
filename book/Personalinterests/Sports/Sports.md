@@ -73,7 +73,7 @@ One highlight was racing the Team Time Trial at the National Championships for C
 
 ---
 
-<a href="https://www.goodreads.com/user/show/47662651" style="display: flex; align-items: center; font-weight: bold; color: #1a0dab; text-decoration: underline; margin-bottom: 8px;">
+<a href="https://www.strava.com/athletes/14161803?utm_source=ios_share&utm_medium=social&share_sig=780BF24C1754219805&_branch_match_id=1447998051517298821&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy4pSixL1EssKNDLyczL1rdwz7MsM8wOKw9Lsq8rSk1LLSrKzEuPTyrKLy9OLbJ1zijKz00FAA2zs3w9AAAA" style="display: flex; align-items: center; font-weight: bold; color: #1a0dab; text-decoration: underline; margin-bottom: 8px;">
   <span style="margin-right: 10px;">Follow me on </span>
   <img src="Figures/strava_logo.png" alt="Strava logo" style="height: 22px; margin-right: 10px;">
   Strava
