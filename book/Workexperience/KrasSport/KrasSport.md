@@ -3,8 +3,8 @@
 
 ```{margin}
 **Practical information**  
-📅 **Start–End:** 2017 – 2018 
-⏳ **Duration:** 1 yr
+📅 **Start–End:** 2017 – 2018  
+⏳ **Duration:** 1 yr  
 💼 **Type:** Part-time  
 🌐 **Mode:** On-site 
 ```
