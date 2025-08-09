@@ -26,6 +26,8 @@ We began our journey with a scenic road trip along Australia’s East Coast in a
   </tr>
 </table>
 
+<br><br>
+
 ## Darwin and mainland
 After our coastal adventure, we flew to Darwin in the Northern Territory to reconnect with family and explore the region. We wandered through the tropical city, then ventured inland to the Wildman Wilderness Lodge, where we spotted kangaroos near our tent camp and experienced the beauty of the Australian outback.
 
