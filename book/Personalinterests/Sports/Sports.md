@@ -66,7 +66,7 @@ When I started studying in Delft, I joined D.S.R.V. Laga and took up rowing comp
 
 ## 🚴 Cycling
 
-After quitting rowing to focus on my studies, I took up cycling — which allowed me more flexibility. I had cycled as a kid but never this seriously. I joined WTOS Delft and participated in many races, Gran Fondos, and cycling holidays.
+After quitting rowing to focus on my studies, I took up cycling, which allowed me more flexibility. I had cycled as a kid but never this seriously. I joined WTOS Delft and participated in many races, Gran Fondos, and cycling holidays.
 
 One highlight was racing the Team Time Trial at the National Championships for Clubs, where our club selected the top six riders.  
 📄 **Read more:** {ref}`Cycling`
