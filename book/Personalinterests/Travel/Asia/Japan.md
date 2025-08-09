@@ -7,27 +7,16 @@ Japan is a fascinating blend of ancient tradition and cutting-edge modernity, kn
 - 🗓️ Duration: 2015
 - 📍 Highlights: Kyoto, Niseko, Tokyo
 
-```{figure} Figures/Jpapan_temple.JPG
----
-name: Jordan_Anke_Jerash
-height: 270px
-align: right
----
-Our family at the Kinkaku-Ji
-```
 ## Kyoto
 While based in Kyoto, Japan, our family had a wonderful experience exploring two of the city’s most famous temples: Kinkaku-ji, the Golden Pavilion, and Ginkaku-ji, the Silver Pavilion. At Kinkaku-ji, we were amazed by the brilliant gold leaf shimmering in the sunlight, perfectly reflected in the peaceful pond. At Ginkaku-ji, we enjoyed the quiet, simple beauty of the gardens and the calming atmosphere. Experiencing these two contrasting styles of Japanese culture and history together as a family was truly memorable.
 
-<div style="display: flex; justify-content: space-around;">
-  <figure style="text-align: center; width: 45%;">
-    <img src="Figures/Japan_temple.jpg" alt="Kinkakuji" style="width: 100%;">
-    <figcaption>Our family at Kinkaku-ji</figcaption>
-  </figure>
-  <figure style="text-align: center; width: 45%;">
-    <img src="Figures/Japan_templeparents.jpg" alt="Ginkakuji" style="width: 100%;">
-    <figcaption>Parents at Ginkaku-ji</figcaption>
-  </figure>
-</div>
+```{figure} Figures/Japan_temple.JPG
+---
+name: Kinkakuji
+align: center
+---
+Our family at Kinkaku-ji
+```
 
 ## Skiing in Niseko
 We went skiing in Niseko, Hokkaido. I wasn’t aware you could ski in Japan before this trip. The snow was amazing and the runs were fun to explore. We had a great view of Mount Fuji while on the slopes.
