@@ -1,7 +1,7 @@
 (Cycling)=
 # Cycling
 
-## How I started
+## Starting
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
@@ -15,21 +15,21 @@
 </div>
 
 
-## WTOS
-
-### Gran Fondo Vosges
-
-### National Club Championships
-
-### Trois Ballons
-
-### Gran Fondo World Championships
+## Training
 
 ## Racing
 
-Local races
+### National Club Championships
+
+### Local races
 
 ## Events
+
+### Gran Fondo Vosges
+
+### Gran Fondo World Championships
+
+### Trois Ballons
 
 ### Climate Classic
 
