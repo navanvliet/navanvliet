@@ -20,7 +20,7 @@ We began our journey with a scenic road trip along Australia’s East Coast in a
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td style="width: 33.33%;"><img src="Figures/Australia_Camper.JPG" alt="camper" style="width: 100%; height: auto;"></td>
+    <td style="width: 33.33%;"><img src="Figures/Australia_camper.JPG" alt="camper" style="width: 100%; height: auto;"></td>
     <td style="width: 33.33%;"><img src="Figures/Australia_Koala.JPG" alt="koala" style="width: 100%; height: auto;"></td>
     <td style="width: 33.33%;"><img src="Figures/Australia_Beach.JPG" alt="beach" style="width: 100%; height: auto;"></td>
   </tr>
@@ -30,11 +30,11 @@ We began our journey with a scenic road trip along Australia’s East Coast in a
 After our coastal adventure, we flew to Darwin in the Northern Territory to reconnect with family and explore the region. We wandered through the tropical city, then ventured inland to the Wildman Wilderness Lodge, where we spotted kangaroos near our tent camp and experienced the beauty of the Australian outback.
 
 <div style="display: flex; justify-content: space-around;">
-  <figure style="text-align: center; width: 30%;">
+  <figure style="text-align: center; width: 45%;">
     <img src="Figures/Australia_Darwinfamily.JPG" alt="petronastowers" style="width: 100%;">
     <figcaption>Darwin with family Helmantel</figcaption>
   </figure>
-  <figure style="text-align: center; width: 30%;">
+  <figure style="text-align: center; width: 45%;">
     <img src="Figures/Australia_Darwininland.JPG" alt="fishfoot" style="width: 100%;">
     <figcaption>Kangaroo near our tent camp</figcaption>
   </figure>
