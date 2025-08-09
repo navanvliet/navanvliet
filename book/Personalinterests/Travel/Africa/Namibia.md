@@ -1,6 +1,6 @@
 (Namibia)=
 # Namibia
-A memorable family adventure in 2017 exploring Namibia by road trip. Highlights include camping with a 4x4 truck, experiencing thrilling safaris, visiting stunning national parks, sandboarding and finishing with a day trip to the majestic Victoria Falls in neighboring Zimbabwe. We also went sandboarding.
+A memorable family adventure in 2017 exploring Namibia by road trip. Highlights include sandboarding, camping with a 4x4 truck, experiencing thrilling safaris, visiting stunning national parks, sandboarding and finishing with a day trip to the majestic Victoria Falls in neighboring Zimbabwe.
 
 - 👨‍👩‍👧‍👧 Trip type: Family (Anthony, Ilse, Kim, Niels, Anke)
 - 🗓️ Duration: 2017
