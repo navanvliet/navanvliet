@@ -10,6 +10,7 @@ A memorable family adventure in 2017 exploring Namibia by road trip. Highlights 
 ---
 name: sandboarding
 align: center
+width: 70%
 ---
 Sandboarding in the desert
 ```
@@ -47,18 +48,19 @@ Exploration of Namibia’s rich natural parks, spotting diverse wildlife such as
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td><img src="Figures/Namibia_ParkMap.JPG" alt="parkmap" style="width: 30%; height: auto;"></td>
-    <td><img src="Figures/Namibia_ParkAntilope.JPG" alt="antilope" style="width: 30%; height: auto;"></td>
-    <td><img src="Figures/Namibia_ParkBuffalo.JPG" alt="buffalo" style="width: 30%; height: auto;"></td>
+    <td style="width: 33.33%;"><img src="Figures/Namibia_ParkMap.JPG" alt="parkmap" style="width: 100%; height: auto;"></td>
+    <td style="width: 33.33%;"><img src="Figures/Namibia_ParkAntilope.JPG" alt="antilope" style="width: 100%; height: auto;"></td>
+    <td style="width: 33.33%;"><img src="Figures/Namibia_ParkBuffalo.JPG" alt="buffalo" style="width: 100%; height: auto;"></td>
   </tr>
   <tr>
-    <td><img src="Figures/Namibia_ParkHippo.JPG" alt="hippo" style="width: 30%; height: auto;"></td>
-    <td><img src="Figures/Namibia_ParkZebra.JPG" alt="zebra" style="width: 30%; height: auto;"></td>
-    <td><img src="Figures/Namibia_ParkGiraffe.JPG" alt="giraffe" style="width: 30%; height: auto;"></td>
+    <td style="width: 33.33%;"><img src="Figures/Namibia_ParkHippo.JPG" alt="hippo" style="width: 100%; height: auto;"></td>
+    <td style="width: 33.33%;"><img src="Figures/Namibia_ParkZebra.JPG" alt="zebra" style="width: 100%; height: auto;"></td>
+    <td style="width: 33.33%;"><img src="Figures/Namibia_ParkGiraffe.JPG" alt="giraffe" style="width: 100%; height: auto;"></td>
   </tr>
 </table>
 
-## Zimbabwe daytrip: Victoria Falls
+
+## Zimbabwe: Victoria Falls
 A family day trip to the awe-inspiring Victoria Falls, marveling at one of the world’s largest and most spectacular waterfalls, creating lasting memories together.
 
 ```{figure} Figures/Namibia_VictoriaFalls.JPG

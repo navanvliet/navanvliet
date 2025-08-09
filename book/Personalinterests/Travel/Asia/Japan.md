@@ -14,6 +14,7 @@ While based in Kyoto, Japan, our family had a wonderful experience exploring two
 ---
 name: Kinkakuji
 align: center
+width: 70%
 ---
 Our family at Kinkaku-ji
 ```
