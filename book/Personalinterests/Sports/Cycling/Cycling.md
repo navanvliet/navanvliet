@@ -14,14 +14,13 @@
   </figure>
 </div>
 
-
 ## Training
 
 ## Racing
 
-### National Club Championships
-
 ### Local races
+
+### National Club Championships
 
 ## Events
 
