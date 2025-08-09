@@ -1,6 +1,6 @@
 (Australia)=
 ## Australia
-Australia, the world’s largest island and smallest continent, is known for its unique wildlife, stunning coastlines, and vibrant cities. In 2012, our family traveled here to meet relatives in Sydney and embark on a diverse adventur, from road-tripping along the East Coast to exploring the tropical Top End and enjoying time with family.
+Australia, the world’s largest island and smallest continent, is known for its unique wildlife, stunning coastlines, and vibrant cities. In 2012, our family traveled here to meet relatives in Sydney and embark on a diverse adventure, from road-tripping along the East Coast to exploring the mainland near Darwin and enjoying time with family.
 
 - 👨‍👩‍👧‍👧 Trip type: Family (Anthony, Ilse, Kim, Niels, Anke)
 - 🗓️ Duration: 2012
@@ -26,7 +26,7 @@ We began our journey with a scenic road trip along Australia’s East Coast in a
   </tr>
 </table>
 
-<br><br>
+<br>
 
 ## Darwin and mainland
 After our coastal adventure, we flew to Darwin in the Northern Territory to reconnect with family and explore the region. We wandered through the tropical city, then ventured inland to the Wildman Wilderness Lodge, where we spotted kangaroos near our tent camp and experienced the beauty of the Australian outback.
