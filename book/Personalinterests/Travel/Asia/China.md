@@ -13,11 +13,11 @@ China was the setting for a focused and challenging sports trip where performanc
 Our arrival in Chengdu was marked by a special experience: we were transported on buses adorned with the games’ stickers, using dedicated lanes to reach the University campus, which served as our “mini Olympic village.” On July 28, 2023, the opening ceremony took place in the Sichuan Province capital, a grand event attended by President Xi Jinping, who officially opened the games. The ceremony was both inspiring and festive, with the Dutch delegation proudly marching in among dozens of countries at 48:40 in the video below.
 
 <div style="display: flex; justify-content: space-around;">
-  <figure style="text-align: center; width: 60%;">
-    <img src="Figures/Chengduopeningceremony.jpg" alt="openingceremony" style="width: 100%;">
+  <figure style="text-align: center; width: 45%;">
+    <img src="Figures/Chengdu_Openingceremony.jpg" alt="openingceremony" style="width: 100%;">
     <figcaption>Opening ceremony</figcaption>
   </figure>
-  <figure style="text-align: center; width: 30%;">
+  <figure style="text-align: center; width: 45%;">
     <img src="Figures/Chengdu_Villagesign.jpg" alt="villagesign" style="width: 100%;">
     <figcaption>Village</figcaption>
   </figure>
@@ -29,12 +29,12 @@ Our arrival in Chengdu was marked by a special experience: we were transported o
 The rowing events were held at the Sichuan Water Sports School in the Xinjin District of Chengdu. This venue doubled as a competition site and a training center for athletes. We rowed in brand new Peishen boats—similar in design to Fillipi boats but equipped with slightly more flexible oars. The ergometers resembled Concept 2 machines but were locally produced models. I competed with Jurgen in the Lightweight Men's Double Sculls. Unfortunately, I faced stomach issues two days before the heats and had to cut weight to meet the 70.0 kg limit, about 1.5 kg lighter than usual, which affected my performance. Despite the setbacks, we competed in the heats and repechage but didn’t make the A-final. For health reasons, we decided to skip the B-final. It was very sad that we could not compete at our very best at the tournament we came to Chengdu for in the first place.
 
 <div style="display: flex; justify-content: space-around;">
-  <figure style="text-align: center; width: 60%;">
-    <img src="Figures/Rowingvenue.jpg" alt="rowvenue" style="width: 100%;">
+  <figure style="text-align: center; width: 45%;">
+    <img src="Figures/Chengdu_Rowingvenue.jpg" alt="rowvenue" style="width: 100%;">
     <figcaption>Venue of the rowing</figcaption>
   </figure>
-  <figure style="text-align: center; width: 30%;">
-    <img src="Figures/Rowingboat.jpg" alt="boat" style="width: 100%;">
+  <figure style="text-align: center; width: 45%;">
+    <img src="Figures/Chengdu_Rowingboat.jpg" alt="boat" style="width: 100%;">
     <figcaption>Heading out for racing</figcaption>
   </figure>
 </div>
@@ -47,27 +47,26 @@ We went hiking at Mt. Qingcheng, a beautiful and peaceful mountain known as one 
 We also visited the Chengdu Panda Base, where we saw giant pandas up close, including some playful cubs and large adults. It was amazing to watch them in their natural habitat, and since the panda was the mascot of the Games, the visit felt extra special. I even bought some panda souvenirs to take home.
 
 <div style="display: flex; justify-content: space-around;">
-  <figure style="text-align: center; width: 60%;">
+  <figure style="text-align: center; width: 40%;">
     <img src="Figures/Chengdu_Hiking.jpg" alt="hiking" style="width: 100%;">
-    <figcaption>Hiking</figcaption>
+    <figcaption>Hiking at Mt. Qingcheng</figcaption>
   </figure>
-  <figure style="text-align: center; width: 30%;">
+  <figure style="text-align: center; width: 50%;">
     <img src="Figures/Chengdu_Villagcoffeerobot.jpg" alt="coffeerobot" style="width: 100%;">
     <figcaption>Coffee robot in village</figcaption>
   </figure>
 </div>
-
 
 ## Rooftop drinks with sponsor
 At the beginning of our stay, we were invited by Happy Sports, one of the sponsors of the Dutch delegation, to enjoy drinks on a rooftop bar overlooking the city. This was a cool way to explore the city skyline.
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 60%;">
-    <img src="Figures/Chengdu_Rooftop.JPG" alt="rooftopgroup" style="width: 100%;">
+    <img src="Figures/Chengdu_Rooftop.jpg" alt="rooftopgroup" style="width: 100%;">
     <figcaption>Lieke, Jurgen, Brian and me at the rooftop</figcaption>
   </figure>
   <figure style="text-align: center; width: 30%;">
-    <img src="Figures/Chengdu_RooftopdrinksHappySport.JPG" alt="rooftop" style="width: 100%;">
+    <img src="Figures/Chengdu_RooftopdrinksHappySports.jpg" alt="rooftop" style="width: 100%;">
     <figcaption>Rooftop Happy Sports</figcaption>
   </figure>
 </div>
