@@ -20,6 +20,17 @@ Especially in my last year of high school, when a knee injury kept me from runni
 </div>
 
 ## Training
+
+```{figure} ../Figures/Cycling_Bosbaan.JPG
+---
+align: right
+width: 200px
+name: cyclingbosbaan
+---
+Viewing the Bosbaan  
+whilst training on the bike
+```
+
 When starting my studies in Delft, I decided to start rowing, as it is very well integrated in the Dutch student life, whereas for cycling I would have to do many long hours on my own. This did not mean that I fully stopped cycling, I still did it about once or twice every week as alternative training.
 
 ```{figure} ../Figures/WTOS_logo.png
@@ -31,17 +42,7 @@ name: wtos
 WTOS logo
 ```
 
-After 5 years of rowing, I then quit rowing and started taking cycling more serious. Coming from a high level of competition, I felt like training 10 to 12 hours a week was not that much. I also joined [WTOS](https://wtos.nl/) (Wij Trainen Ons Suf), the student cycling organisation of Delft in september 2023. WTOS core is centered around weekly Monday and Wednesday rides, social events on Thursdays, going to (student) races, Granfondo's and on holidays to the Alpes (Briançon, near the Angel) or Spain in winter (Calpe, close to the Col de Rates). A typical week is displayed below, although I would say that I am quite flexible, since stepping down fromrowing.
-
-```{figure} ../Figures/Cycling_Bosbaan.JPG
----
-align: right
-width: 200px
-name: cyclingbosbaan
----
-Viewing the Bosbaan  
-whilst training on the bike
-```
+After 5 years of rowing, I then quit rowing and started taking cycling more serious. Coming from a high level of competition, I felt like training 10 to 12 hours a week was not that much. I also joined [WTOS](https://wtos.nl/) (Wij Trainen Ons Suf), the student cycling organisation of Delft in september 2023. WTOS core is centered around weekly Monday and Wednesday rides, social events on Thursdays, going to (student) races, Granfondo's and on holidays to the Alpes (Briançon, near the Angel) or Spain in winter (Calpe, close to the Col de Rates). A typical week is displayed below, although I would say that I am quite flexible, since stepping down from rowing.
 
 | Monday                         | Tuesday                                      | Wednesday                      | Thursday | Friday           | Saturday            | Sunday                  |
 | ------------------------------ | -------------------------------------------- | ------------------------------ | -------- | ---------------- | ------------------- | ----------------------- |
@@ -99,7 +100,7 @@ Highlights from some bigger cycling events and challenges I took part in, includ
 ```{figure} ../Figures/Cycling_GFVosgesStart.jpg
 ---
 align: right
-width: 30%
+width: 200px
 name: cyclingGFvosges
 ---
 Start of the Gran Fondo
@@ -136,7 +137,7 @@ Besides racing, I also organised the whole weekend with AmbiCie, a committee at 
 ```{figure} ../Figures/Cycling_TroisBallonsMedal.jpg
 ---
 align: right
-width: 30%
+width: 200px
 name: troisballonsmedal
 ---
 Obtaining my participation medal
