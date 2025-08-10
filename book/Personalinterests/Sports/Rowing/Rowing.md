@@ -21,13 +21,13 @@ My second and third year did not contain many races, as a lot were cancelled dur
 
 During my third year I was lucky to get Lieke as coach for the lightweights. She was really experienced in coaching sculling and I learned a lot from here about my technique, as she was always providing feedback and filmed a lot of our training. Apart from technique, she also clearly knew a lot about how the racing schedule worked and gave great shape to our season, outlining and discussing our goals with us, as well as bringing us together as a group of lightweight rowers. A couple of typical weeks of training are displayed below. Additionally, I have added a couple of the many pictures Lieke has taken over the years, of which most are posted on Facebook.
 
-| Week / Day           | Monday           | Tuesday                   | Wednesday
-        | Thursday                                        | Friday            | Saturday                          | Sunday                               |
-|----------------------|------------------|---------------------------|-------------------------|----------------------------------------------------------|-------------------|----------------------------------|-------------------------------------|
-| **3-9 January**      | KT               | Row 16k 2x                | Row 16k 2x              | Euromast 2x28k (way back time trial <t20, check avg on stroke coach) | Row 16k 2x        | Row 1x 4km warm up + 6x2k (t22-26 alt) r5' 4km cd | Duinloop/intraining                 |
-|                      | Bike Zwift 60' W206avg HR139avg | Row 16k 2x                 |                         |                                                          | Row 16k 2x        | Row 18k 2x                      |                                     |
-| **10-16 January**    | KT               | Ergo 2x8k 5'R             | Ergo 2x8k 5'R           | Ergo 2x10k R5'                                           | Ergo: 3x15' t24 r5' (15' warm up + 5 min cool down) | Row 2x 20k                       | Row 2x Spar 2x3.5k, 3.5k rest in 21k |
-|                      |                  | Bike Zwift 1h30min W249avg | KT                      | Bike Zwift 1h20min HR143avg W230avg                      |                   | Ergo 3x6(45" max, 75" rest) 8'R |                                     |
+| Week / Day        | Monday                                   | Tuesday                             | Wednesday          | Thursday                                                   | Friday                                                  | Saturday                                         | Sunday                                |
+|-------------------|------------------------------------------|--------------------------------------|--------------------|-------------------------------------------------------------|---------------------------------------------------------|--------------------------------------------------|---------------------------------------|
+| **3-9 January**   | KT                                       | Row 16k 2x                           | Row 16k 2x         | Euromast 2×28k (way back time trial <t20, check avg on stroke coach) | Row 16k 2x                                             | Row 1x 4km warm up + 6×2k (t22–26 alt) r5′ 4km cd | Duinloop/intraining                   |
+|                   | Bike Zwift 60′ W206avg HR139avg           | Row 16k 2x                           |                    |                                                             | Row 16k 2x                                             | Row 18k 2x                                      |                                       |
+| **10-16 January** | KT                                       | Ergo 2×8k 5′R                        | Ergo 2×8k 5′R      | Ergo 2×10k R5′                                               | Ergo: 3×15′ t24 r5′ (15′ warm up + 5′ cool down)        | Row 2×20k                                        | Row 2× Spar 2×3.5k, 3.5k rest in 21k |
+|                   |                                          | Bike Zwift 1h30 W249avg               | KT                 | Bike Zwift 1h20 HR143avg W230avg                            |                                                         | Ergo 3×6 (45″ max, 75″ rest) 8′R                 |                                       |
+
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
@@ -45,29 +45,33 @@ During my third year I was lucky to get Lieke as coach for the lightweights. She
 </div>
 
 ## 2022-2023 (146-147): International racing
+After 3 years of dedicated training, up to 12 times per week at times, I had worked up myself towards the national top. It was at this moment that I could finally compete and win races and thereby select myself for international races. Winning the LHE1x at the Raceroei Regatta, which is organised by D.S.R.V. Laga was a unique experience. As I got selected for international tournaments, this also meant pairing up for the National Championships in the LM4x, thereby claiming two national titles.
 
-<div style="display: flex; justify-content: space-around;">
-  <figure style="text-align: center; width: 45%;">
-    <img src="../Figures/LHE1x_rowing.jpg" alt="Image 1" style="width: 100%;">
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <figure style="text-align: center; width: 30%;">
+    <img src="../Figures/LHE1x_rowing.jpg" alt="Image 1" style="width: 100%; object-fit: cover;">
     <figcaption>Final metres of Raceroei Regatta LHE1x (2022)</figcaption>
   </figure>
-    <figure style="text-align: center; width: 45%;">
-    <img src="../Figures/Raceroei_Lieke_LHE1x.jpg" alt="Image 2" style="width: 100%;">
-    <figcaption>Celebrating win with my coach Lieke Otten </figcaption>
+  <figure style="text-align: center; width: 30%;">
+    <img src="../Figures/Raceroei_Lieke_LHE1x.jpg" alt="Image 2" style="width: 100%; object-fit: cover;">
+    <figcaption>Celebrating win with my coach Lieke Otten</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 30%;">
+    <img src="../Figures/NKLM4x.jpg" alt="Image 3" style="width: 100%; object-fit: cover;">
+    <figcaption>Winning the national title in the LM4x at Holland Beker (2022)</figcaption>
   </figure>
 </div>
 
-```{figure} ../Figures/NKLM4x.jpg
----
-name: NKLM4x
-width: 70%
-align: center
----
-Winning the national title in the LM4x at Holland Beker (2022)
-```
-
 ### World Rowing Cup III
-Luzern, Switzerland, LM4x
+```{figure} ../Figures/Rowing_LM4xLuzern.jpg
+---
+name: LM4xLuzern
+width: 50%
+align: right
+---
+Training prior to Luzern World Cup
+```
+After being selected to represent the Netherlands with Max, Maxim and Stefan (being coached by Lieke) after showing speed at a trial organized by the KNRB, our lightweight men's quadruple sculls crew trained intensively together at the Bosbaan in Amsterdam during the weeks leading up to the World Cup. The race took place on 9 July 2022 at the World Rowing Cup event, where we faced a German crew in a 1 vs 1. We finished just a few seconds behind the German crew, who won with a time of 05:57.44. Our boat crossed the line about 4 seconds later, but our boat was 100 grams under the weight limit, causing us to be disqualified. Although this was not the result we hoped for, it proved to be a valuable experience.
 
 ### European University Championchips
 Extensive training was done over the summer in Delft leading up to the races. During the season, we qualified and competed in Istanbul, Turkey in the Lightweight Men’s Double Sculls (LM2x) with Jurgen. We reached the A-final and finished in 4th place. Although the result was a bit disappointing since we hoped to make the podium, it was still a great experience. Other crews that went with us, the LM4- and LM4x, did reach the podium, with the LM4x even taking first place. Overall, it was a fantastic experience rowing alongside a close group of friends and our coach Lieke.
@@ -86,20 +90,14 @@ Extensive training was done over the summer in Delft leading up to the races. Du
 </div>
 
 ### World Rowing Cup II
-Varese, Italy, LM4x
+At the 2023 World Cup in Varese, Italy (17 June 2023), I raced in the Lightweight Men’s Quadruple Sculls Final with Max, Maxim, and Brian, coached by Lieke. We had trained together as a crew in the weeks leading up to the event and lined up against strong international competition. In a tight race, Italy took gold in 5:51.20, Germany silver in 5:53.58, and we claimed the third place for the Netherlands in 5:55.84.
 
 ### Henley Royal Regatta
-Henley, England, Prince of Wales, Intermediate M4x
+At Henley Royal Regatta in England, we competed in the Prince of Wales Challenge Cup for intermediate men's quadruple sculls. In the first round, we won against Njord, but in the second round we faced Leander, a crew that would go on to win the event. Racing at Henley was an incredible experience; the standard of the competition is truly impressive. After losing, tradition dictates you derig your boat and carry it off the site, the infamous “walk of shame” across the parking lot, before loading it onto the trailer. Once the work is done, we relaxed, soaked up the unique Henley atmosphere, and recharged.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zh3xWsIbM6k?si=qytIhCBs2Og5jqJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### FISU World University Games
-```{figure} Travel/Asia/Figures/Chengdu_Rowingboat.jpg
----
-name: rowingboat
-align: right
-width: 200px
----
-LM2x with Jurgen
-```
 A really cool experience overall, but unfortunately I had stomach problems. After missing out on the A-finals in the heats and repechage, I decided not to start in the B-final to prioritize my health.
 
 📖Read more about the trip [here](China).
