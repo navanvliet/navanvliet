@@ -26,7 +26,6 @@ Our arrival in Chengdu was marked by a special experience: we were transported o
 <div style="display: flex; justify-content: center;">
   <iframe 
     width="60%" 
-    height="calc(60vw * 9 / 16)" 
     src="https://www.youtube.com/embed/wMjYe6TtXek?si=8tHSm_kNs3VWNbnS" 
     title="YouTube video player" 
     frameborder="0" 

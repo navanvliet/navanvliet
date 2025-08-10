@@ -45,7 +45,20 @@ Winning the national title in the LM4x at Holland Beker (2022)
 Luzern, Switzerland, LM4x
 
 ### European University Championchips
-Istanbul, Turkey, LM2x
+Extensive training was done over the summer in Delft leading up to the races. During the season, we qualified and competed in Istanbul, Turkey in the Lightweight Men’s Double Sculls (LM2x) with Jurgen. We reached the A-final and finished in 4th place. Although the result was a bit disappointing since we hoped to make the podium, it was still a great experience. Other crews that went with us, the LM4- and LM4x, did reach the podium, with the LM4x even taking first place. Overall, it was a fantastic experience rowing alongside a close group of friends and our coach Lieke.
+
+<div style="display: flex; justify-content: space-around;">
+  <figure style="text-align: center; width: 45%;">
+    <img src="../Figures/Rowing_EUCboat.jpg" alt="boat" style="width: 100%;">
+  </figure>
+    <figure style="text-align: center; width: 45%;">
+    <img src="../Figures/Rowing_EUCrow.jpg" alt="closup" style="width: 100%;">
+  </figure>
+  </figure>
+    <figure style="text-align: center; width: 45%;">
+    <img src="../Figures/Rowing_EUCwalk.jpg" alt="walk" style="width: 100%;">
+  </figure>
+</div>
 
 ## 2023 (147): International racing
 
@@ -55,8 +68,18 @@ Varese, Italy, LM4x
 ### Henley Royal Regatta
 Henley, England, Prince of Wales, Intermediate M4x
 
-### World University Games
-Chengdu, China, LM2x
+### FISU World University Games
+```{figure} ../Travel/Asia/Figures/Chengdu_Rowingboat.jpg
+---
+name: rowingboat
+align: right
+width: 200px
+---
+LM2x with Jurgen
+```
+A really cool experience overall, but unfortunately I had stomach problems. After missing out on the A-finals in the heats and repechage, I decided not to start in the B-final to prioritize my health.
+
+📖Read more about the trip [here](China).
 
 ## Race wins
 | Wins | Date        | Laga Year | Race                          | Field   | Time     | Ranked |
