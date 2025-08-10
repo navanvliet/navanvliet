@@ -16,11 +16,35 @@ My perseverance paid off in my fourth and fifth years, during which I achieved m
 
 ## 2019 (143): Freshman
 
-## 2020 (144) Developing
+## 2020-2021 (144-145): Developing
+My second and third year did not contain many races, as a lot were cancelled during covid. However, with a lot of motivation to get better at rowing, I put in a lot of effort on the water and the erg to try to get better. In my second year I was planning on racing the LM4- Development Classification, but everything was closed. At a time were not able to even go to the club to row, but we had to do alterenative training. During part of that, I went back to my parents (as I could cycle and run there as well and all my university education was moved online) and went out cycling a lot with Michiel and Alex again. After some time, we were allowed to row in singles again, and I picked up sculling and spend a lot of time learning how to do this as I had only done sweeping before.
 
-## 2021 (145): Developing
+During my third year I was lucky to get Lieke as coach for the lightweights. She was really experienced in coaching sculling and I learned a lot from here about my technique, as she was always providing feedback and filmed a lot of our training. Apart from technique, she also clearly knew a lot about how the racing schedule worked and gave great shape to our season, outlining and discussing our goals with us, as well as bringing us together as a group of lightweight rowers. A couple of typical weeks of training are displayed below. Additionally, I have added a couple of the many pictures Lieke has taken over the years, of which most are posted on Facebook.
 
-## 2022 (146): International racing
+| Week / Day           | Monday           | Tuesday                   | Wednesday
+        | Thursday                                        | Friday            | Saturday                          | Sunday                               |
+|----------------------|------------------|---------------------------|-------------------------|----------------------------------------------------------|-------------------|----------------------------------|-------------------------------------|
+| **3-9 January**      | KT               | Row 16k 2x                | Row 16k 2x              | Euromast 2x28k (way back time trial <t20, check avg on stroke coach) | Row 16k 2x        | Row 1x 4km warm up + 6x2k (t22-26 alt) r5' 4km cd | Duinloop/intraining                 |
+|                      | Bike Zwift 60' W206avg HR139avg | Row 16k 2x                 |                         |                                                          | Row 16k 2x        | Row 18k 2x                      |                                     |
+| **10-16 January**    | KT               | Ergo 2x8k 5'R             | Ergo 2x8k 5'R           | Ergo 2x10k R5'                                           | Ergo: 3x15' t24 r5' (15' warm up + 5 min cool down) | Row 2x 20k                       | Row 2x Spar 2x3.5k, 3.5k rest in 21k |
+|                      |                  | Bike Zwift 1h30min W249avg | KT                      | Bike Zwift 1h20min HR143avg W230avg                      |                   | Ergo 3x6(45" max, 75" rest) 8'R |                                     |
+
+<div style="display: flex; justify-content: space-around;">
+  <figure style="text-align: center; width: 45%;">
+    <img src="../Figures/Rowing_Pim.jpg" alt="pim" style="width: 100%;">
+    <figcaption>Double with Pim</figcaption>
+  </figure>
+    <figure style="text-align: center; width: 45%;">
+    <img src="../Figures/Rowing_LM1xtraining.jpg" alt="lm1xcovid style="width: 100%;">
+    <figcaption>LM1x training</figcaption>
+  </figure>
+      <figure style="text-align: center; width: 45%;">
+    <img src="../Figures/Rowing_LM4xwab.jpg" alt="wablm4x" style="width: 100%;">
+    <figcaption>LM4x WAB </figcaption>
+  </figure>
+</div>
+
+## 2022-2023 (146-147): International racing
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
@@ -60,8 +84,6 @@ Extensive training was done over the summer in Delft leading up to the races. Du
     <img src="../Figures/Rowing_EUCwalk.jpg" alt="walk" style="width: 100%;">
   </figure>
 </div>
-
-## 2023 (147): International racing
 
 ### World Rowing Cup II
 Varese, Italy, LM4x
