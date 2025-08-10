@@ -41,7 +41,7 @@ name: cyclingbosbaan
 ---
 Viewing the Bosbaan  
 whilst training on the bike
-
+```
 
 | Monday                         | Tuesday                                      | Wednesday                      | Thursday | Friday           | Saturday            | Sunday                  |
 | ------------------------------ | -------------------------------------------- | ------------------------------ | -------- | ---------------- | ------------------- | ----------------------- |
