@@ -16,7 +16,7 @@
 
 ## Training
 
-```{figure} Figures/Cycling_Bosbaan.jpg
+```{figure} ../Figures/Cycling_Bosbaan.JPG
 ---
 align: right
 heigth: 200px
@@ -32,7 +32,7 @@ whilst training on the bike
     <figcaption>Col de Rates with WTOS (2024)</figcaption>
   </figure>
   <figure style="text-align: center; width: 45%;">
-    <img src="../Figures/Cycling_BrianconAngel.JPG" alt="angel" style="width: 100%;">
+    <img src="../Figures/Cycling_BrianconAngel.jpg" alt="angel" style="width: 100%;">
     <figcaption>Col d'Angel with WTOS (2024)</figcaption>
   </figure>
 </div>
@@ -43,7 +43,7 @@ whilst training on the bike
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
-    <img src="../Figures/Cycling_Race.jpg" alt="cyclingcompetition" style="width: 100%;">
+    <img src="../Figures/Cycling_Race.JPG" alt="cyclingcompetition" style="width: 100%;">
     <figcaption>Competition</figcaption>
   </figure>
   <figure style="text-align: center; width: 45%;">
@@ -56,7 +56,7 @@ whilst training on the bike
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
-    <img src="../Figures/Cycling_NCK.jpg" alt="nckstart" style="width: 100%;">
+    <img src="../Figures/Cycling_NCK.JPG" alt="nckstart" style="width: 100%;">
     <figcaption>Start podium NCK</figcaption>
   </figure>
   <figure style="text-align: center; width: 45%;">
@@ -68,7 +68,7 @@ whilst training on the bike
 ## Events
 
 ### Gran Fondo Vosges
-```{figure} Figures/Cycling_GFVosgesStart.jpg
+```{figure} ../Figures/Cycling_GFVosgesStart.jpg
 ---
 align: right
 heigth: 200px
@@ -79,7 +79,7 @@ Vosges (2024)
 ```
 
 ### Gran Fondo World Championships
-```{figure} Figures/Cycling_WCGF.jpg
+```{figure} ../Figures/Cycling_WCGF.JPG
 ---
 align: center
 name: WCGF
@@ -88,7 +88,7 @@ WTOS participants at the UCI Gran Fondo World Championships after finishing
 ```
 
 ### Trois Ballons
-```{figure} Figures/Cycling_TroisBallonsMedal.jpg
+```{figure} ../Figures/Cycling_TroisBallonsMedal.jpg
 ---
 align: right
 heigth: 200px
