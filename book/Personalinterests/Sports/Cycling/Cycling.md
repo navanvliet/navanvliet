@@ -128,12 +128,6 @@ WTOS participants at the UCI Gran Fondo World Championships after finishing
 ### Trois Ballons
 On June 7, 2025, I took part in a challenging race near Ronchamp, France, covering 183 km with over 4,000 meters of climbing in cold, relentless rain 🌧️. I finished 33rd overall, 15th in the M18 category, and 5th for WTOS after 5:47:45 of racing (excluding neutralized sections).
 
-The day was marked by tough climbs and tricky conditions. I got dropped from the lead group on the steep **Col des Chèvres**, came close to rejoining near the **Col des Croix** but missed out. Riding with a large chasing group, I pushed through the ****Markstein** and **Grand Ballon**, grateful for the final 2 km climb to warm up before the descent, where fierce crosswinds made it tough, leaving me slightly hypothermic.
-
-After a steady section on the **Hundruck**, I struggled with fueling and hydration in the rain, and “went dark” on the **Ballon d’Alsace** around 142 km. I was briefly caught by a rider who had dropped earlier, but he eventually dropped me on the descent. I caught him again, but he chose to skip the final climb and head back to Ronchamp due to the gruelling cold conditions in the rain, leaving me to face the last lonely kilometers. Despite this, I managed to pass a few Mediofondo riders on the **Planche des Belles Filles** and finished the race battling the elements and fatigue.
-
-Besides racing, I also organised the whole weekend with AmbiCie, a committee at WTOS—arranging transport, booking hotels, and organising feed aid for the team. A tough but rewarding experience, both on and off the bike.
-
 ```{figure} ../Figures/Cycling_TroisBallonsMedal.jpg
 ---
 align: right
@@ -144,6 +138,12 @@ Obtaining my participation medal
 after finishing the Trois
 Ballons (2025)
 ```
+
+The day was marked by tough climbs and tricky conditions. I got dropped from the lead group on the steep **Col des Chèvres**, came close to rejoining near the **Col des Croix** but missed out. Riding with a large chasing group, I pushed through the ****Markstein** and **Grand Ballon**, grateful for the final 2 km climb to warm up before the descent, where fierce crosswinds made it tough, leaving me slightly hypothermic.
+
+After a steady section on the **Hundruck**, I struggled with fueling and hydration in the rain, and “went dark” on the **Ballon d’Alsace** around 142 km. I was briefly caught by a rider who had dropped earlier, but he eventually dropped me on the descent. I caught him again, but he chose to skip the final climb and head back to Ronchamp due to the gruelling cold conditions in the rain, leaving me to face the last lonely kilometers. Despite this, I managed to pass a few Mediofondo riders on the **Planche des Belles Filles** and finished the race battling the elements and fatigue.
+
+Besides racing, I also organised the whole weekend with AmbiCie, a committee at WTOS—arranging transport, booking hotels, and organising feed aid for the team. A tough but rewarding experience, both on and off the bike.
 
 ### Climate Classic
 In 2025, I rode the Climate Classic with my rowing friend Willem, starting at 5:30 in Breda and following the symbolic _natural coastline_, marking where the Dutch shoreline could be without sea protection 🌊. We covered 375 km to Groningen, raising money for Justdiggit 🌱, an organisation that restores degraded landscapes in Africa through re-greening and water harvesting.
