@@ -2,6 +2,11 @@
 # Cycling
 
 ## Starting
+I got my first bike when I was 12, as a gift from my holiday. From then on, I could go cycling with my dad. Later, I was even allowed to bring my bike on holidays, which meant tackling epic climbs—my first col being the Col d’Izoard. I also started going out for rides on my own.
+
+Through ice skating, I met Alex and Michiel, who both also worked at Kras Sport. We began riding together, joined HSV de Kampioen, and started competing in the Sunday morning races there, as well as the Saturday afternoon competition at Sloten. Often, we’d finish with pancakes at one of our houses.
+
+Especially in my last year of high school, when a knee injury kept me from running as much, I started cycling a lot more. After my final exams in May 2018, I suddenly had the whole summer free, and I spent much of it on my bike.
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
@@ -15,6 +20,18 @@
 </div>
 
 ## Training
+When starting my studies in Delft, I decided to start rowing, as it is very well integrated in the Dutch student life, whereas for cycling I would have to do many long hours on my own. This did not mean that I fully stopped cycling, I still did it about once or twice every week as alternative training.
+
+```{figure} ../Figures/WTOS_logo.png
+---
+figclass: margin
+width: 100px
+name: wtos
+---
+WTOS logo
+```
+
+After 5 years of rowing, I then quit rowing and started taking cycling more serious. Coming from a high level of competition, I felt like training 10 to 12 hours a week was not that much. I also joined [WTOS](https://wtos.nl/) (Wij Trainen Ons Suf), the student cycling organisation of Delft in september 2023. WTOS core is centered around weekly Monday and Wednesday rides, social events on Thursdays, going to (student) races, Granfondo's and on holidays to the Alpes (Briançon, near the Angel) or Spain in winter (Calpe, close to the Col de Rates). A typical week is displayed below, although I would say that I am quite flexible, since stepping down fromrowing.
 
 ```{figure} ../Figures/Cycling_Bosbaan.JPG
 ---
@@ -25,6 +42,11 @@ name: cyclingbosbaan
 Viewing the Bosbaan
 whilst training on the bike
 ```
+
+| Monday                         | Tuesday                                      | Wednesday                      | Thursday | Friday           | Saturday            | Sunday                  |
+| ------------------------------ | -------------------------------------------- | ------------------------------ | -------- | ---------------- | ------------------- | ----------------------- |
+| Group ride WTOS – 2h endurance | Race ZAC – 60 km (\~300 W NP) + WU/CD – 1h45 | Group ride WTOS – 2h endurance | Rest     | Easy ride – 1.5h | Endurance ride – 3h | Race / intervals / ride / rest |
+
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
