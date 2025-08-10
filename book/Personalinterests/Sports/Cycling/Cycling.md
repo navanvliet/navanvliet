@@ -36,17 +36,16 @@ After 5 years of rowing, I then quit rowing and started taking cycling more seri
 ```{figure} ../Figures/Cycling_Bosbaan.JPG
 ---
 align: right
-heigth: 200px
+width: 200px
 name: cyclingbosbaan
 ---
-Viewing the Bosbaan
+Viewing the Bosbaan  
 whilst training on the bike
-```
+
 
 | Monday                         | Tuesday                                      | Wednesday                      | Thursday | Friday           | Saturday            | Sunday                  |
 | ------------------------------ | -------------------------------------------- | ------------------------------ | -------- | ---------------- | ------------------- | ----------------------- |
 | Group ride WTOS – 2h endurance | Race ZAC – 60 km (\~300 W NP) + WU/CD – 1h45 | Group ride WTOS – 2h endurance | Rest     | Easy ride – 1.5h | Endurance ride – 3h | Race / intervals / ride / rest |
-
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
@@ -68,11 +67,11 @@ In the 2024 and 2025 seasons, I took part in a few local cycling competitions an
 I also competed in the C6 Periodes, a Sunday morning series where I had a strong run in the first period of 2025, winning the general classification and sometimes ending up on the podium, including a race organized by WTOS. On Tuesday evenings, I joined the ZAC at RWV de Spartaan, which is a summer evening competition, where I moved up from 16th in 2024 (with a best finish of 2nd) to currently 3rd overall in 2025, including three wins so far this season. These local races helped me keep racing regularly in a friendly but competitive setting.
 
 <div style="display: flex; justify-content: space-around;">
-  <figure style="text-align: center; width: 45%;">
+  <figure style="text-align: center; width: 30%;">
     <img src="../Figures/Cycling_Race.JPG" alt="cyclingcompetition" style="width: 100%;">
     <figcaption>Competition</figcaption>
   </figure>
-  <figure style="text-align: center; width: 45%;">
+  <figure style="text-align: center; width: 30%;">
     <img src="../Figures/Cycling_PodiumLocalRace.JPG" alt="cyclingpodium" style="width: 100%;">
     <figcaption>C6 Podium on Trias A-category</figcaption>
   </figure>
@@ -82,11 +81,11 @@ I also competed in the C6 Periodes, a Sunday morning series where I had a strong
 On October 6, 2024, I raced the NCK in Dronten, Flevoland—a flat and windy team time trial with WTOS. In the A-category, we covered 49 km in 1:01:30 at an average speed of 47.8 km/h, finishing 16th out of 44 teams. It was full-gas from the start, and by the end I was completely spent, but it was an intense, smooth team effort and a great experience to race together at that speed.
 
 <div style="display: flex; justify-content: space-around;">
-  <figure style="text-align: center; width: 45%;">
+  <figure style="text-align: center; width: 30%;">
     <img src="../Figures/Cycling_NCK.JPG" alt="nckstart" style="width: 100%;">
     <figcaption>Start podium NCK</figcaption>
   </figure>
-  <figure style="text-align: center; width: 45%;">
+  <figure style="text-align: center; width: 60%;">
     <img src="../Figures/Cycling_NCKrace.JPG" alt="nckracing" style="width: 100%;">
     <figcaption>Team Time Trial</figcaption>
   </figure>
@@ -100,7 +99,7 @@ Highlights from some bigger cycling events and challenges I took part in, includ
 ```{figure} ../Figures/Cycling_GFVosgesStart.jpg
 ---
 align: right
-heigth: 200px
+width: 30%
 name: cyclingGFvosges
 ---
 Start of the Gran Fondo
@@ -119,6 +118,7 @@ The closing kilometers were full-gas and chaotic, with several crashes over stre
 ```{figure} ../Figures/Cycling_WCGF.JPG
 ---
 align: center
+width: 70%
 name: WCGF
 ---
 WTOS participants at the UCI Gran Fondo World Championships after finishing
@@ -136,7 +136,7 @@ Besides racing, I also organised the whole weekend with AmbiCie, a committee at 
 ```{figure} ../Figures/Cycling_TroisBallonsMedal.jpg
 ---
 align: right
-heigth: 200px
+width: 30%
 name: troisballonsmedal
 ---
 Obtaining my participation medal
@@ -155,7 +155,7 @@ We passed rest stops in Den Bosch (55 km), De Bilt (127 km), Ermelo (185 km), Zw
     <figcaption>Start Climate Classic (2025)</figcaption>
   </figure>
   <figure style="text-align: center; width: 45%;">
-    <img src="../Figures/Cycling_Willem.JPG" alt="willemCC" style="width: 100%;">
+    <img src="../Figures/Cycling_Willem.jpg" alt="willemCC" style="width: 100%;">
     <figcaption>Willem Climate Classic</figcaption>
   </figure>
 </div>
