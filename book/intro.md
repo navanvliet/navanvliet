@@ -1,7 +1,7 @@
 (intro)=
 # Niels van Vliet
 
-_Welcome to my website. On this page you can find information about me. Please note that this website is still being developed._
+_Welcome to my website. On this page you can find information about me. Feel free to reach out if you would like to connect via Email or LinkedIn._
 
 I am a PhD candidate at Delft University of Technology researching inner-city Quay Walls, specifically in Amsterdam. I have obtained both a BSc and MSc degree in Civil Engineering, specializing in Structural Engineering. On this website you can find information about my education and work experience. Furthermore, I have added my personal interests, thereby displaying my significant interest in various sports.
 
