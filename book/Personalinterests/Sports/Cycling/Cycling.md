@@ -60,8 +60,12 @@ whilst training on the bike
 </div>
 
 ## Racing
+A selection of my local and club races over the past couple of seasons 🚴‍♂️. These helped me build experience, stay consistent, and enjoy racing in a friendly, competitive environment.
 
 ### Local races
+In the 2024 and 2025 seasons, I took part in a few local cycling competitions and focused on consistent results. In the C6 Voorjaarscompetitie, a small series of six Saturday morning races in early spring, I improved from 10th overall in 2024 to finishing 3rd in 2025. These races were a good way to get back into racing shape and work on race tactics over varied courses.
+
+I also competed in the C6 Periodes, a Sunday morning series where I had a strong run in the first period of 2025, winning the general classification and sometimes ending up on the podium, including a race organized by WTOS. On Tuesday evenings, I joined the ZAC at RWV de Spartaan, which is a summer evening competition, where I moved up from 16th in 2024 (with a best finish of 2nd) to currently 3rd overall in 2025, including three wins so far this season. These local races helped me keep racing regularly in a friendly but competitive setting.
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
@@ -75,6 +79,7 @@ whilst training on the bike
 </div>
 
 ### National Club Championships
+On October 6, 2024, I raced the NCK in Dronten, Flevoland—a flat and windy team time trial with WTOS. In the A-category, we covered 49 km in 1:01:30 at an average speed of 47.8 km/h, finishing 16th out of 44 teams. It was full-gas from the start, and by the end I was completely spent, but it was an intense, smooth team effort and a great experience to race together at that speed.
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
@@ -88,8 +93,10 @@ whilst training on the bike
 </div>
 
 ## Events
+Highlights from some bigger cycling events and challenges I took part in, including international races and special rides 🌍🚴‍♂️. Each brought its own unique experience on and off the bike.
 
-### Gran Fondo Vosges
+### UCI Gran Fondo Vosges
+
 ```{figure} ../Figures/Cycling_GFVosgesStart.jpg
 ---
 align: right
@@ -100,7 +107,15 @@ Start of the Gran Fondo
 Vosges (2024)
 ```
 
-### Gran Fondo World Championships
+On May 19, 2024, I raced the UCI Gran Fondo Vosges in La Bresse, France 🇫🇷, a 169.9 km course with 3,467 m of climbing. After 90 km, one of the many steep climbs hit hard, but I kept pushing and finished 79th, earning a spot for the 🌈 UCI Gran Fondo World Championships in Denmark 🇩🇰 later that summer (top 25% of each age group qualifies).
+
+### UCI Gran Fondo World Championships
+In Denmark, things got chaotic early—after just 17 km I crashed over another rider. Bikes were tangled, my front wheel skewed, and the chain was off, but after some adjustments I was back on the road. The main group was long gone, so I worked with a Belgian to reach a bunch of other dropped riders, and then managed to move up another group.
+
+Around 80 km in, the 35+ category (who had started 5 minutes later) caught us, and I jumped onto their peloton. From there it was a fast, steady ride toward the finish. At 126 km came a tricky section—tight right-hander, narrow feed zone, and slower Medio Fondo riders scattered in the way. I briefly lost the group but fought back with another Dutch rider.
+
+The closing kilometers were full-gas and chaotic, with several crashes over street furniture. I stayed safe near the back, crossing the line without a great result but with plenty of race experience gained. Only a big bruise on my left thigh as damage, and a great week in Denmark with WTOS as the real win.
+
 ```{figure} ../Figures/Cycling_WCGF.JPG
 ---
 align: center
@@ -110,6 +125,14 @@ WTOS participants at the UCI Gran Fondo World Championships after finishing
 ```
 
 ### Trois Ballons
+On June 7, 2025, I took part in a challenging race near Ronchamp, France, covering 183 km with over 4,000 meters of climbing in cold, relentless rain 🌧️. I finished 33rd overall, 15th in the M18 category, and 5th for WTOS after 5:47:45 of racing (excluding neutralized sections).
+
+The day was marked by tough climbs and tricky conditions. I got dropped from the lead group on the steep **Col des Chèvres**, came close to rejoining near the **Col des Croix** but missed out. Riding with a large chasing group, I pushed through the ****Markstein** and **Grand Ballon**, grateful for the final 2 km climb to warm up before the descent, where fierce crosswinds made it tough, leaving me slightly hypothermic.
+
+After a steady section on the **Hundruck**, I struggled with fueling and hydration in the rain, and “went dark” on the **Ballon d’Alsace** around 142 km. I was briefly caught by a rider who had dropped earlier, but he eventually dropped me on the descent. I caught him again, but he chose to skip the final climb and head back to Ronchamp due to the gruelling cold conditions in the rain, leaving me to face the last lonely kilometers. Despite this, I managed to pass a few Mediofondo riders on the **Planche des Belles Filles** and finished the race battling the elements and fatigue.
+
+Besides racing, I also organised the whole weekend with AmbiCie, a committee at WTOS—arranging transport, booking hotels, and organising feed aid for the team. A tough but rewarding experience, both on and off the bike.
+
 ```{figure} ../Figures/Cycling_TroisBallonsMedal.jpg
 ---
 align: right
@@ -122,6 +145,9 @@ Ballons (2025)
 ```
 
 ### Climate Classic
+In 2025, I rode the Climate Classic with my rowing friend Willem, starting at 5:30 in Breda and following the symbolic _natural coastline_, marking where the Dutch shoreline could be without sea protection 🌊. We covered 375 km to Groningen, raising money for Justdiggit 🌱, an organisation that restores degraded landscapes in Africa through re-greening and water harvesting.
+
+We passed rest stops in Den Bosch (55 km), De Bilt (127 km), Ermelo (185 km), Zwolle (232 km), Ruinerwold (279 km), and Appelscha (317 km) before rolling into Groningen at 18:30 for a well-earned vegan pasta meal 🍝. I stayed an extra day to visit my younger sister, who studies there.
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
