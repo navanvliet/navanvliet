@@ -69,7 +69,7 @@ Varese, Italy, LM4x
 Henley, England, Prince of Wales, Intermediate M4x
 
 ### FISU World University Games
-```{figure} ../Travel/Asia/Figures/Chengdu_Rowingboat.jpg
+```{figure} Travel/Asia/Figures/Chengdu_Rowingboat.jpg
 ---
 name: rowingboat
 align: right
