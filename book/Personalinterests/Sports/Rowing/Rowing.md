@@ -21,28 +21,31 @@ My second and third year did not contain many races, as a lot were cancelled dur
 
 During my third year I was lucky to get Lieke as coach for the lightweights. She was really experienced in coaching sculling and I learned a lot from here about my technique, as she was always providing feedback and filmed a lot of our training. Apart from technique, she also clearly knew a lot about how the racing schedule worked and gave great shape to our season, outlining and discussing our goals with us, as well as bringing us together as a group of lightweight rowers. A couple of typical weeks of training are displayed below. Additionally, I have added a couple of the many pictures Lieke has taken over the years, of which most are posted on Facebook.
 
+```{Admonition} Training schedule
+:class: note, dropdown
 | Week / Day        | Monday                                   | Tuesday                             | Wednesday          | Thursday                                                   | Friday                                                  | Saturday                                         | Sunday                                |
 |-------------------|------------------------------------------|--------------------------------------|--------------------|-------------------------------------------------------------|---------------------------------------------------------|--------------------------------------------------|---------------------------------------|
 | **3-9 January**   | KT                                       | Row 16k 2x                           | Row 16k 2x         | Euromast 2×28k (way back time trial <t20, check avg on stroke coach) | Row 16k 2x                                             | Row 1x 4km warm up + 6×2k (t22–26 alt) r5′ 4km cd | Duinloop/intraining                   |
 |                   | Bike Zwift 60′ W206avg HR139avg           | Row 16k 2x                           |                    |                                                             | Row 16k 2x                                             | Row 18k 2x                                      |                                       |
 | **10-16 January** | KT                                       | Ergo 2×8k 5′R                        | Ergo 2×8k 5′R      | Ergo 2×10k R5′                                               | Ergo: 3×15′ t24 r5′ (15′ warm up + 5′ cool down)        | Row 2×20k                                        | Row 2× Spar 2×3.5k, 3.5k rest in 21k |
 |                   |                                          | Bike Zwift 1h30 W249avg               | KT                 | Bike Zwift 1h20 HR143avg W230avg                            |                                                         | Ergo 3×6 (45″ max, 75″ rest) 8′R                 |                                       |
+```
 
-
-<div style="display: flex; justify-content: space-around;">
-  <figure style="text-align: center; width: 45%;">
-    <img src="../Figures/Rowing_Pim.jpg" alt="pim" style="width: 100%;">
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <figure style="text-align: center; width: 30%;">
+    <img src="../Figures/Rowing_Pim.jpg" alt="pim" style="height: 250px; width: auto; object-fit: cover;">
     <figcaption>Double with Pim</figcaption>
   </figure>
-    <figure style="text-align: center; width: 45%;">
-    <img src="../Figures/Rowing_LM1xtraining.jpg" alt="lm1xcovid style="width: 100%;">
+  <figure style="text-align: center; width: 30%;">
+    <img src="../Figures/Rowing_LM1xtraining.jpg" alt="lm1x" style="height: 250px; width: auto; object-fit: cover;">
     <figcaption>LM1x training</figcaption>
   </figure>
-      <figure style="text-align: center; width: 45%;">
-    <img src="../Figures/Rowing_LM4xwab.jpg" alt="wablm4x" style="width: 100%;">
-    <figcaption>LM4x WAB </figcaption>
+  <figure style="text-align: center; width: 30%;">
+    <img src="../Figures/Rowing_LM4xwab.jpg" alt="wablm4x" style="height: 250px; width: auto; object-fit: cover;">
+    <figcaption>LM4x WAB</figcaption>
   </figure>
 </div>
+
 
 ## 2022-2023 (146-147): International racing
 After 3 years of dedicated training, up to 12 times per week at times, I had worked up myself towards the national top. It was at this moment that I could finally compete and win races and thereby select myself for international races. Winning the LHE1x at the Raceroei Regatta, which is organised by D.S.R.V. Laga was a unique experience. As I got selected for international tournaments, this also meant pairing up for the National Championships in the LM4x, thereby claiming two national titles.
@@ -63,14 +66,16 @@ After 3 years of dedicated training, up to 12 times per week at times, I had wor
 </div>
 
 ### World Rowing Cup III
+
 ```{figure} ../Figures/Rowing_LM4xLuzern.jpg
 ---
 name: LM4xLuzern
-width: 50%
+width: 250px
 align: right
 ---
 Training prior to Luzern World Cup
 ```
+
 After being selected to represent the Netherlands with Max, Maxim and Stefan (being coached by Lieke) after showing speed at a trial organized by the KNRB, our lightweight men's quadruple sculls crew trained intensively together at the Bosbaan in Amsterdam during the weeks leading up to the World Cup. The race took place on 9 July 2022 at the World Rowing Cup event, where we faced a German crew in a 1 vs 1. We finished just a few seconds behind the German crew, who won with a time of 05:57.44. Our boat crossed the line about 4 seconds later, but our boat was 100 grams under the weight limit, causing us to be disqualified. Although this was not the result we hoped for, it proved to be a valuable experience.
 
 ### European University Championchips
