@@ -15,9 +15,10 @@ I began rowing at D.S.R.V. Laga in my first year at university, building on the 
 My perseverance paid off in my fourth and fifth years, during which I achieved multiple national victories and was selected to compete in several international regattas. Balancing intensive training with academic responsibilities taught me discipline, time management, and resilience. Beyond the sport, I thoroughly enjoyed being part of Laga’s vibrant student association, rich with tradition and camaraderie. Over five years, from my freshman year (143) to my final year (147), rowing became a defining part of my student life and personal growth.
 
 ## 2019 (143): Freshman
+Started rowing at D.S.R.V. Laga. Learned the basics in the Opvang (first 6 weeks introduction period). Did selection or the first year lightweight eight. Made it and got into the crew. Raced the NKIR (Nationals Indoor Rowing) where we won and set a national record. Continued with trianing. Went to Banyoles on training camp. Then started 1st year competition in LHEj8+. Got 4th place in general classification. I learned a lot about rowing and got used to combining a lot of training with a high study load, thereby having to manage my time properly. At the end of year we (Bart, Tiis, me, Willem, coxed by Reinet) managed to get our First classified win at the LHB4+ at the Slotwedstrijden.
 
 ## 2020-2021 (144-145): Developing
-My second and third year did not contain many races, as a lot were cancelled during covid. However, with a lot of motivation to get better at rowing, I put in a lot of effort on the water and the erg to try to get better. In my second year I was planning on racing the LM4- Development Classification, but everything was closed. At a time were not able to even go to the club to row, but we had to do alterenative training. During part of that, I went back to my parents (as I could cycle and run there as well and all my university education was moved online) and went out cycling a lot with Michiel and Alex again. After some time, we were allowed to row in singles again, and I picked up sculling and spend a lot of time learning how to do this as I had only done sweeping before.
+My second and third year did not contain many races, as a lot were cancelled during covid. However, with a lot of motivation to get better at rowing, I put in a lot of effort on the water and the erg to try to get better. Through my fast erg times, I managed to get a NOC-NSF C-status, thereby getting an elite sport status at TU Delft in my second year. I was planning on racing the LM4- Development Classification, but everything was canceled due to covid just prior to the start of the season. At a time were not able to even go to the club to row, but we had to do alterenative training. During part of that, I went back to my parents (as I could cycle and run there as well and all my university education was moved online) and went out cycling a lot with Michiel and Alex again. After some time, we were allowed to row in singles again, and I picked up sculling and spend a lot of time learning how to do this as I had only done sweeping before.
 
 During my third year I was lucky to get Lieke as coach for the lightweights. She was really experienced in coaching sculling and I learned a lot from here about my technique, as she was always providing feedback and filmed a lot of our training. Apart from technique, she also clearly knew a lot about how the racing schedule worked and gave great shape to our season, outlining and discussing our goals with us, as well as bringing us together as a group of lightweight rowers. A couple of typical weeks of training are displayed below. Additionally, I have added a couple of the many pictures Lieke has taken over the years, of which most are posted on Facebook.
 
@@ -48,7 +49,7 @@ During my third year I was lucky to get Lieke as coach for the lightweights. She
 
 
 ## 2022-2023 (146-147): International racing
-After 3 years of dedicated training, up to 12 times per week at times, I had worked up myself towards the national top. It was at this moment that I could finally compete and win races and thereby select myself for international races. Winning the LHE1x at the Raceroei Regatta, which is organised by D.S.R.V. Laga was a unique experience. As I got selected for international tournaments, this also meant pairing up for the National Championships in the LM4x, thereby claiming two national titles.
+After 3 years of dedicated training, up to 12 times per week at times, I had worked up myself towards the national top. It was at this moment that I could finally compete and win races and thereby select myself for international races. Winning the LHE1x at the Raceroei Regatta, which is organised by D.S.R.V. Laga was a unique experience. As I got selected for international tournaments, this also meant pairing up for the National Championships in the LM4x, thereby claiming two national titles. In the race were I qualified for the FISU World University Games I also obtained the prestigious SA-status (8 classifying wins).
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <figure style="text-align: center; width: 30%;">
@@ -70,7 +71,7 @@ After 3 years of dedicated training, up to 12 times per week at times, I had wor
 ```{figure} ../Figures/Rowing_LM4xLuzern.jpg
 ---
 name: LM4xLuzern
-width: 250px
+width: 300px
 align: right
 ---
 Training prior to Luzern World Cup
@@ -95,10 +96,18 @@ Extensive training was done over the summer in Delft leading up to the races. Du
 </div>
 
 ### World Rowing Cup II
+```{figure} ../Figures/Rowing_VareseLM4x.JPG
+---
+name: LM4xVarese
+width: 300px
+align: right
+---
+Competing at WCII in Varese
+```
 At the 2023 World Cup in Varese, Italy (17 June 2023), I raced in the Lightweight Men’s Quadruple Sculls Final with Max, Maxim, and Brian, coached by Lieke. We had trained together as a crew in the weeks leading up to the event and lined up against strong international competition. In a tight race, Italy took gold in 5:51.20, Germany silver in 5:53.58, and we claimed the third place for the Netherlands in 5:55.84.
 
 ### Henley Royal Regatta
-At Henley Royal Regatta in England, we competed in the Prince of Wales Challenge Cup for intermediate men's quadruple sculls. In the first round, we won against Njord, but in the second round we faced Leander, a crew that would go on to win the event. Racing at Henley was an incredible experience; the standard of the competition is truly impressive. After losing, tradition dictates you derig your boat and carry it off the site, the infamous “walk of shame” across the parking lot, before loading it onto the trailer. Once the work is done, we relaxed, soaked up the unique Henley atmosphere, and recharged.
+At Henley Royal Regatta in England, we (Brian, me, Maxim and Max, coached by Lieke) competed in the Prince of Wales Challenge Cup for intermediate men's quadruple sculls. In the first round, we won against Njord, but in the second round we faced Leander, a crew that would go on to win the event. Racing at Henley was an incredible experience; the standard of the competition is truly impressive. After losing, tradition dictates you derig your boat and carry it off the site, the infamous “walk of shame” across the parking lot, before loading it onto the trailer. Once the work is done, we relaxed, soaked up the unique Henley atmosphere, and recharged.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zh3xWsIbM6k?si=qytIhCBs2Og5jqJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
