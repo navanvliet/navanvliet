@@ -4,7 +4,7 @@
 Japan is a fascinating blend of ancient tradition and cutting-edge modernity, known for its beautiful temples, bustling cities, and stunning natural landscapes. During our family trip, we experienced Kyoto’s famous temples, skied the snowy slopes of Niseko, and explored Tokyo’s vibrant city life, including a meaningful visit to Hiroshima.
 
 - 👨‍👩‍👧‍👧 Trip type: Family (Anthony, Ilse, Kim, Niels, Anke)
-- 🗓️ Duration: 2015
+- 🗓️ Duration: 2 weeks (2015)
 - 📍 Highlights: Kyoto, Niseko, Tokyo
 
 ## Kyoto

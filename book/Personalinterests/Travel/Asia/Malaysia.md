@@ -4,7 +4,7 @@
 Malaysia, a vibrant country known for its diverse culture and modern cities, was our destination in 2012. We spent a few days in Kuala Lumpur and in a resort to rest and recover from jetlag before heading to [Australia](Australia) to visit family. The trip was a nice mix of city exploration and relaxing beach resort time.
 
 - 👨‍👩‍👧‍👧 Trip type: Family (Anthony, Ilse, Kim, Niels, Anke)
-- 🗓️ Duration: 2012
+- 🗓️ Duration: 1 week (2012)
 - 📍 Highlights: Kuala Lumpur, Resort
 
 ## Kuala Lumpur

@@ -4,7 +4,7 @@
 Jordan is a country rich in history and natural beauty, located at the crossroads of Asia, Africa, and Europe. During our family trip, we explored three of its most iconic sites — the ancient city of Petra, the vast desert of Wadirum, and the Roman ruins of Jerash.
 
 - 👨‍👩‍👧‍👧 Trip type: Family (Anthony, Ilse, Kim, Niels, Anke)
-- 🗓️ Duration: 7 days (2023-10-21 to 2023-10-27)  
+- 🗓️ Duration: 2 weeks (2022)  
 - 📍 Highlights: Petra, Wadirum, Jerash
 
 

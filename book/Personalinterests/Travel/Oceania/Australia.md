@@ -4,7 +4,7 @@
 Australia, the world’s largest island and smallest continent, is known for its unique wildlife, stunning coastlines, and vibrant cities. In 2012, our family traveled here to meet relatives in Sydney and embark on a diverse adventure, from road-tripping along the East Coast to exploring the mainland near Darwin and enjoying time with family.
 
 - 👨‍👩‍👧‍👧 Trip type: Family (Anthony, Ilse, Kim, Niels, Anke)
-- 🗓️ Duration: 2012
+- 🗓️ Duration: 4 weeks (2012)
 - 📍 Highlights: Roadtrip camper, Darwin, Sydney
 
 ```{figure} Figures/Australia_BondiBeach.JPG

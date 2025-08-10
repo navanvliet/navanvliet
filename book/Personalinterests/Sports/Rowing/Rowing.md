@@ -36,6 +36,7 @@ My perseverance paid off in my fourth and fifth years, during which I achieved m
 ```{figure} ../Figures/NKLM4x.jpg
 ---
 name: NKLM4x
+width: 70%
 align: center
 ---
 Winning the national title in the LM4x at Holland Beker (2022)

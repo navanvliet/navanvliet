@@ -3,7 +3,7 @@
 Indonesia, the world’s largest archipelago, is known for its rich cultural heritage, diverse landscapes, and vibrant traditions. In 2014, we explored the island of Java, starting in the bustling capital Jakarta before flying to Yogyakarta. From there, we traveled eastward by car, passing endless rice fields and small villages, experiencing the heart of rural life. Along the way, we visited world-famous temples, trekked up volcanic slopes, watched wildlife in their natural habitat, and took part in a turtle conservation project.
 
 - 👨‍👩‍👧‍👧 Trip type: Family (Anthony, Ilse, Kim, Niels, Anke)
-- 🗓️ Duration: 2014
+- 🗓️ Duration: 3 weeks (2014)
 - 📍 Highlights: Borobudur and Prambanan temples, sea turtle conservation, Mount Ijen
 
 ## Visiting temples
