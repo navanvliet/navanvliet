@@ -139,7 +139,7 @@ after finishing the Trois
 Ballons (2025)
 ```
 
-The day was marked by tough climbs and tricky conditions. I got dropped from the lead group on the steep **Col des Chèvres**, came close to rejoining near the **Col des Croix** but missed out. Riding with a large chasing group, I pushed through the ****Markstein** and **Grand Ballon**, grateful for the final 2 km climb to warm up before the descent, where fierce crosswinds made it tough, leaving me slightly hypothermic.
+The day was marked by tough climbs and tricky conditions. I got dropped from the lead group on the steep **Col des Chèvres**, came close to rejoining near the **Col des Croix** but missed out. Riding with a large chasing group, I pushed through the **Markstein** and **Grand Ballon**, grateful for the final 2 km climb to warm up before the descent, where fierce crosswinds made it tough, leaving me slightly hypothermic.
 
 After a steady section on the **Hundruck**, I struggled with fueling and hydration in the rain, and “went dark” on the **Ballon d’Alsace** around 142 km. I was briefly caught by a rider who had dropped earlier, but he eventually dropped me on the descent. I caught him again, but he chose to skip the final climb and head back to Ronchamp due to the gruelling cold conditions in the rain, leaving me to face the last lonely kilometers. Despite this, I managed to pass a few Mediofondo riders on the **Planche des Belles Filles** and finished the race battling the elements and fatigue.
 
