@@ -15,6 +15,9 @@ parts:
       - file: Education/MSc/MScThesis.md
     - file: Education/PhD/PhD.md
       sections:
+      - file: Education/PhD/Teaching/Teaching.md
+        sections:
+        - file: Education/PhD/Teaching/CO2NeutralStructures.ipynb
       - file: Education/PhD/GS/GS.md
         sections:
         - file: Education/PhD/GS/Discipline_skills.md

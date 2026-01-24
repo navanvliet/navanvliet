@@ -20,12 +20,12 @@ Our family at Kinkaku-ji
 ```
 
 ## Skiing in Niseko
-We went skiing in Niseko, Hokkaido. I wasn’t aware you could ski in Japan before this trip. The snow was amazing and the runs were fun to explore. We had a great view of Mount Fuji while on the slopes.
+We went skiing in Niseko, Hokkaido. I wasn’t aware you could ski in Japan before this trip. The snow was amazing and the runs were fun to explore. We had a great view of a vulcano while on the slopes.
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center; width: 45%;">
     <img src="Figures/Japan_ski.jpg" alt="skifuji" style="width: 100%;">
-    <figcaption>Skiing in Niseko with Mount Fuji in the background</figcaption>
+    <figcaption>Skiing in Niseko with vulcano in the background</figcaption>
   </figure>
   <figure style="text-align: center; width: 45%;">
     <img src="Figures/Japan_skifamily.jpg" alt="skiselfie" style="width: 100%;">
